@@ -1,8 +1,10 @@
-# About [KADhosts_azet12]
+# About KADhosts_azet12
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/KADhosts_azet12.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/KADhosts_azet12)
 
-[Description]
+```
+Wersja hosts filtra KAD
+```
 
 --------------------------------------------------------------------------------
 
