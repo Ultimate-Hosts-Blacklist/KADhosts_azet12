@@ -1,9 +1,10 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/KADhosts_azet12/domains.list": {
-        "1522753326": [
+        "1523099036": [
             "0xm.com.pl",
             "12xa.pl",
             "2mx9.pl",
+            "5k-player.pl",
             "72933.pl",
             "7sdn.pl",
             "a4face-podgladacz.eu",
@@ -15,6 +16,7 @@
             "as9.pl",
             "beauty-pack.pl",
             "best-quizy.pl",
+            "bi.mil.pl",
             "bolb.blob.core.windows.net",
             "bon-bon-bon.pl",
             "boostphone.gq",
@@ -37,7 +39,6 @@
             "doladujsteam.pl",
             "drlead.pl",
             "e-markowi.pl",
-            "energiaon.pl",
             "extravod.pl",
             "ezoporady24.com.pl",
             "faceapp.eu",
@@ -57,7 +58,6 @@
             "golebiewskikonkurs.pl",
             "gry-za-darmo.pl",
             "hd-film.pl",
-            "hdvod.pl",
             "hdvodtv.pl",
             "herjacket.pl",
             "hotdailynews.co",
@@ -71,13 +71,16 @@
             "kiinomaniak.pl",
             "kimbyleswprzeszlosci.pl",
             "kinobest.pl",
+            "kinon.tv",
             "kobieta-kobietom.com.pl",
             "kochamy-filmy.pl",
             "komputery48.pl",
             "konkursowo-24.pl",
             "ktotopaczy.pl",
             "lektorcda.net.pl",
-            "m3gadownload.pl",
+            "m3gadownload.pl"
+        ],
+        "to_test": [
             "megabony.pl",
             "megafotki.pl",
             "megastream.pl",
@@ -173,9 +176,7 @@
             "zgarnij-prezent.pl",
             "zgarnijciuchy.pl",
             "ziemiazakazana.pl",
-            "zwyciezcy-konkursu.ml"
-        ],
-        "to_test": [
+            "zwyciezcy-konkursu.ml",
             "0stcd.pl"
         ]
     }
