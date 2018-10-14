@@ -261,11 +261,7 @@
             "nagroportal.pl",
             "najlepszakonsolaxbox.pl",
             "najlepszyzestawtrenerapokemon.pl",
-            "napiszsms.pl"
-        ],
-        "to_test": [
-            "no-survey.com",
-            "nowy-bonusy-codzienne.racing",
+            "napiszsms.pl",
             "oculusvsvr.pl",
             "odbior-nagrody.pl",
             "odpowiadam.pl",
@@ -275,9 +271,12 @@
             "office-365.life",
             "pakietltes.pl",
             "paliwo.as9.pl",
-            "zmotoryzowani-24.pl",
             "zostan-testerka.club",
             "zwyciezcy-konkursu.ml"
+        ],
+        "to_test": [
+            "no-survey.com",
+            "nowy-bonusy-codzienne.racing"
         ]
     }
 }
