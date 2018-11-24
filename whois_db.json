@@ -558,7 +558,7 @@
         "casada.pl": {
             "epoch": "1543017600",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "catsplit.com": {
             "epoch": "1536796800",
@@ -628,6 +628,11 @@
         "chron-telefon.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "ciekawinki.pl": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "cinema-hd.pl": {
@@ -1181,8 +1186,8 @@
             "state": "future"
         },
         "eskk.pl": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "euco.pl": {
@@ -1831,8 +1836,8 @@
             "state": "future"
         },
         "hitfilm.pl": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "hitvisit.com": {
@@ -1881,8 +1886,8 @@
             "state": "future"
         },
         "hothub.pl": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "hotokazje.com": {
@@ -1991,8 +1996,8 @@
             "state": "future"
         },
         "instytut-pomocy.pl": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "instytutmed.pl": {
@@ -2980,6 +2985,11 @@
             "expiration_date": "29-jun-2019",
             "state": "future"
         },
+        "play-movie.pl": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
         "play-tube.pl": {
             "epoch": "1558828800",
             "expiration_date": "26-may-2019",
@@ -3025,14 +3035,19 @@
             "expiration_date": "31-jan-2019",
             "state": "future"
         },
+        "pliki-24.pl": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
         "pliks.pl": {
             "epoch": "1572739200",
             "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "plikson.pl": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "plikson24.pl": {
@@ -3053,6 +3068,11 @@
         "pobierane.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "pobierz-123.pl": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "pobierz.biz": {
