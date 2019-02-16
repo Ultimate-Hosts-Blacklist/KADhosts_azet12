@@ -3825,6 +3825,11 @@
             "expiration_date": "15-jun-2019",
             "state": "future"
         },
+        "rap-share.pl": {
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
         "rapid-host.pl": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
@@ -4326,8 +4331,8 @@
             "state": "future"
         },
         "szamponrevita.pl": {
-            "epoch": "1550016000",
-            "expiration_date": "13-feb-2019",
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
             "state": "future"
         },
         "szczepienie.info": {
@@ -4731,9 +4736,9 @@
             "state": "future"
         },
         "vidzsource.net": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
-            "state": "past"
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
         },
         "vimeoo.net": {
             "epoch": "1601251200",
