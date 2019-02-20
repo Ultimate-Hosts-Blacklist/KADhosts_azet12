@@ -3255,6 +3255,11 @@
             "expiration_date": "04-sep-2018",
             "state": "past"
         },
+        "openwrt.com": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
         "oplacalna-gotowka.pl": {
             "epoch": "1571270400",
             "expiration_date": "17-oct-2019",
@@ -3370,9 +3375,19 @@
             "expiration_date": "03-jan-2020",
             "state": "future"
         },
+        "pinamo.pl": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "pinkstar.pl": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "pko-bp.pl": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
             "state": "future"
         },
         "pl-ticket.today": {
@@ -3706,8 +3721,8 @@
             "state": "future"
         },
         "programyhakerskie.pl": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
             "state": "future"
         },
         "prokino.pl": {
@@ -4146,8 +4161,8 @@
             "state": "future"
         },
         "sms-za-darmo.pl": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
             "state": "future"
         },
         "snekdeal.com": {
@@ -4831,8 +4846,8 @@
             "state": "future"
         },
         "web-online.pl": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "wellstar-company.com": {
