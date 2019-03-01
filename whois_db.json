@@ -2765,6 +2765,11 @@
             "expiration_date": "18-dec-2019",
             "state": "future"
         },
+        "karta-podarunkowa-podaj-dane.gq": {
+            "epoch": "1866758400",
+            "expiration_date": "26-feb-2029",
+            "state": "future"
+        },
         "kartavisa.pl": {
             "epoch": "1574899200",
             "expiration_date": "28-nov-2019",
@@ -3176,9 +3181,9 @@
             "state": "future"
         },
         "megacloud.com.pl": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
         },
         "megacloudz.net": {
             "epoch": "1639872000",
@@ -3276,9 +3281,9 @@
             "state": "future"
         },
         "mobile-redirection.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "mobileaps.co": {
             "epoch": "1553385600",
@@ -3421,8 +3426,8 @@
             "state": "future"
         },
         "msphack.pl": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
             "state": "future"
         },
         "msphackonline.com": {
@@ -3453,6 +3458,11 @@
         "myaff.pl": {
             "epoch": "1566000000",
             "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "myairmaxhit.pl": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
             "state": "future"
         },
         "mydascoin.pl": {
