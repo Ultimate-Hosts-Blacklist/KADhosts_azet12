@@ -6035,6 +6035,11 @@
             "expiration_date": "07-jan-2020",
             "state": "future"
         },
+        "telescopethesky.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
         "telewizja-internetowa24.pl": {
             "epoch": "1574121600",
             "expiration_date": "19-nov-2019",
@@ -6080,14 +6085,19 @@
             "expiration_date": "12-dec-2019",
             "state": "future"
         },
+        "tiande.pl": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
         "tiande.ru": {
             "epoch": "1559606400",
             "expiration_date": "04-jun-2019",
             "state": "future"
         },
         "tiande.wroclaw.pl": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "tiandepolska.pl": {
@@ -6098,6 +6108,11 @@
         "tiandewarszawa.pl": {
             "epoch": "1579219200",
             "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "tiens.pl": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "tilido.com": {
@@ -6385,7 +6400,17 @@
             "expiration_date": "24-nov-2019",
             "state": "future"
         },
+        "uzupelniaj-dane.ml": {
+            "epoch": "1866931200",
+            "expiration_date": "28-feb-2029",
+            "state": "future"
+        },
         "uzupelniajdane.ga": {
+            "epoch": "1866844800",
+            "expiration_date": "27-feb-2029",
+            "state": "future"
+        },
+        "uzupelniajdane.gq": {
             "epoch": "1866844800",
             "expiration_date": "27-feb-2029",
             "state": "future"
@@ -6588,7 +6613,7 @@
         "walentynkowyprezent.pl": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "wapster.pl": {
             "epoch": "1570060800",
@@ -6681,8 +6706,8 @@
             "state": "future"
         },
         "wizjatv-kody.pl": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
             "state": "future"
         },
         "wniosek-24h.pl": {
