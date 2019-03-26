@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/KADhosts_azet12/domains.list": {
-        "1553436060": [
+        "1553559887": [
             "0xm.com.pl",
             "5000cotydzien.net",
             "a4face-podgladacz.eu",
@@ -78,6 +78,7 @@
             "pl.titan-man.pro",
             "pl1.titan-man.pro",
             "pl2.titan-man.pro",
+            "plikson24.pl",
             "pobierz1234.pl",
             "polska-nagroda.off.ltd",
             "prezentowo.org",
@@ -93,7 +94,16 @@
             "shortby.tk",
             "skracacz.com",
             "slodkieklamstewka.eu",
-            "sprawdz-to.ga",
+            "sprawdz-to.ga"
+        ],
+        "to_test": [
+            "steamadd.pl",
+            "superiqtest.pl",
+            "supersuper.com.pl",
+            "swiatokazji.eu",
+            "t.app5.pw",
+            "tanieaukcje.com.pl",
+            "telecop.in.net",
             "tracersotra199.com",
             "track.walentynkowyprezent.pl",
             "ver.ovh",
@@ -265,6 +275,16 @@
             "www.skleplara.pl",
             "www.sklepnecik.pl",
             "www.smartoffer.site",
+            "www.spaceforyou.cc",
+            "www.srodmiescie-napraw-laptopa.warszawa.pl",
+            "www.stream-online.com.pl",
+            "www.stream24.com.pl",
+            "www.streaming.xcc24.pl",
+            "www.stuntoffer.com",
+            "www.super-barman.pl",
+            "www.superfiles.pl",
+            "www.superpyton.pl",
+            "www.superserwisy.pl",
             "www.telecop.in.net",
             "www.test-zdrady-na-telefon.pl",
             "www.testclub.pl",
@@ -322,25 +342,6 @@
             "zostan-testerka.club",
             "zweryfikuj-sie.eu",
             "zwyciezcy-konkursu.ml"
-        ],
-        "to_test": [
-            "steamadd.pl",
-            "superiqtest.pl",
-            "supersuper.com.pl",
-            "swiatokazji.eu",
-            "t.app5.pw",
-            "tanieaukcje.com.pl",
-            "telecop.in.net",
-            "www.spaceforyou.cc",
-            "www.srodmiescie-napraw-laptopa.warszawa.pl",
-            "www.stream-online.com.pl",
-            "www.stream24.com.pl",
-            "www.streaming.xcc24.pl",
-            "www.stuntoffer.com",
-            "www.super-barman.pl",
-            "www.superfiles.pl",
-            "www.superpyton.pl",
-            "www.superserwisy.pl"
         ]
     }
 }
