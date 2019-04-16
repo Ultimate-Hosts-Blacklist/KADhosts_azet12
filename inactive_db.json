@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/KADhosts_azet12/domains.list": {
-        "1555251213": [
+        "1555423872": [
             "0xm.com.pl",
             "5000cotydzien.net",
             "a4face-podgladacz.eu",
@@ -18,7 +18,6 @@
             "bon-bon-bon.pl",
             "boostphone.gq",
             "brw-wyniki.tk",
-            "centrum-pogotowie-komputerowe.warszawa.pl",
             "chirurdzy.tv",
             "chrome-setup.bid",
             "code-new.com",
@@ -99,6 +98,7 @@
             "skracacz.com",
             "slodkieklamstewka.eu",
             "sprawdz-to.ga",
+            "ssl.cf6.rackcdn.com",
             "steamadd.pl",
             "store-red.zostan-zwyciezca.com",
             "superiqtest.pl",
@@ -111,7 +111,9 @@
             "tanieaukcje.com.pl",
             "telecop.in.net",
             "tracersotra199.com",
-            "track.walentynkowyprezent.pl",
+            "track.walentynkowyprezent.pl"
+        ],
+        "to_test": [
             "ver.ovh",
             "welovetheapp.com",
             "wiadomosci-tv24-onet.eu",
@@ -120,6 +122,17 @@
             "win-wot.pl",
             "winareward.club",
             "wniosek-online.co.pl",
+            "worldoftanks-24.pl",
+            "www.24drukuj.pl",
+            "www.5000-cotydzien.com",
+            "www.72933.pl",
+            "www.ac-feedback.com",
+            "www.agdkom.net",
+            "www.ajakbytak.pl",
+            "www.akardoo.pl",
+            "www.alwetagd.pl",
+            "www.appgasstation.com",
+            "www.apple.com-repair-macbook.live",
             "www.apple.com-speedup-macbook.live",
             "www.arkanoidgra.pl",
             "www.artandevent.pl",
@@ -332,29 +345,6 @@
             "www.wszystkododomu.net",
             "www.wygraj-skiny.win",
             "www.wykop.net.pl",
-            "wyniki-konkursu2017.eu",
-            "xboxoneemux.com",
-            "xn--dowiecznoci-mfc.pl",
-            "xxxx.nsupdate.info",
-            "zamow-najacze1.pl",
-            "zarabiajwsieci.eu",
-            "zarobkisasiada.pl",
-            "zostan-testerka.club",
-            "zweryfikuj-sie.eu",
-            "zwyciezcy-konkursu.ml"
-        ],
-        "to_test": [
-            "worldoftanks-24.pl",
-            "www.24drukuj.pl",
-            "www.5000-cotydzien.com",
-            "www.72933.pl",
-            "www.ac-feedback.com",
-            "www.agdkom.net",
-            "www.ajakbytak.pl",
-            "www.akardoo.pl",
-            "www.alwetagd.pl",
-            "www.appgasstation.com",
-            "www.apple.com-repair-macbook.live",
             "www.wyspaofert.com",
             "www.zakupyagd.net",
             "www.zalukaj-online.pl",
@@ -368,7 +358,17 @@
             "www.zweryfikuj-sie.eu",
             "www.zweryfikuj-sie.pl",
             "wygraj-skiny.win",
-            "wygrane24.com.pl"
+            "wygrane24.com.pl",
+            "wyniki-konkursu2017.eu",
+            "xboxoneemux.com",
+            "xn--dowiecznoci-mfc.pl",
+            "xxxx.nsupdate.info",
+            "zamow-najacze1.pl",
+            "zarabiajwsieci.eu",
+            "zarobkisasiada.pl",
+            "zostan-testerka.club",
+            "zweryfikuj-sie.eu",
+            "zwyciezcy-konkursu.ml"
         ]
     }
 }
