@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/KADhosts_azet12/domains.list": {
-        "1555943374": [
+        "1556115588": [
             "0xm.com.pl",
             "5000cotydzien.net",
             "a4face-podgladacz.eu",
@@ -65,6 +65,7 @@
             "milkatesterzy.club",
             "mobile0363.harddayforall4.life",
             "mobileforhero.com",
+            "music.jbl-solo.com",
             "no-survey.com",
             "nowy-bonusy-codzienne.racing",
             "odbiierz-nagrode.tk",
@@ -112,7 +113,18 @@
             "tanieaukcje.com.pl",
             "telecop.in.net",
             "tracersotra199.com",
-            "track.walentynkowyprezent.pl",
+            "track.walentynkowyprezent.pl"
+        ],
+        "to_test": [
+            "ver.ovh",
+            "welovetheapp.com",
+            "wiadomosci-tv24-onet.eu",
+            "wikingowie.tv",
+            "win-everyday.top",
+            "win-wot.pl",
+            "winareward.club",
+            "wniosek-online.co.pl",
+            "worldoftanks-24.pl",
             "www.24drukuj.pl",
             "www.5000-cotydzien.com",
             "www.72933.pl",
@@ -289,6 +301,19 @@
             "www.serendipitygalenite.club",
             "www.serwis-laptopow-powisle.pl",
             "www.serwis-laptopow.warszawa.pl",
+            "www.skleplara.pl",
+            "www.sklepnecik.pl",
+            "www.smartoffer.site",
+            "www.something-wrong5.agency",
+            "www.something-wrong9.agency",
+            "www.spaceforyou.cc",
+            "www.srodmiescie-napraw-laptopa.warszawa.pl",
+            "www.stream-online.com.pl",
+            "www.streaming.xcc24.pl",
+            "www.stuntoffer.com",
+            "www.super-barman.pl",
+            "www.superfiles.pl",
+            "www.superpyton.pl",
             "www.superserwisy.pl",
             "www.szoping.net",
             "www.tabletkinaerekcjepl.pw",
@@ -348,30 +373,6 @@
             "zostan-testerka.club",
             "zweryfikuj-sie.eu",
             "zwyciezcy-konkursu.ml"
-        ],
-        "to_test": [
-            "ver.ovh",
-            "welovetheapp.com",
-            "wiadomosci-tv24-onet.eu",
-            "wikingowie.tv",
-            "win-everyday.top",
-            "win-wot.pl",
-            "winareward.club",
-            "wniosek-online.co.pl",
-            "worldoftanks-24.pl",
-            "www.skleplara.pl",
-            "www.sklepnecik.pl",
-            "www.smartoffer.site",
-            "www.something-wrong5.agency",
-            "www.something-wrong9.agency",
-            "www.spaceforyou.cc",
-            "www.srodmiescie-napraw-laptopa.warszawa.pl",
-            "www.stream-online.com.pl",
-            "www.streaming.xcc24.pl",
-            "www.stuntoffer.com",
-            "www.super-barman.pl",
-            "www.superfiles.pl",
-            "www.superpyton.pl"
         ]
     }
 }
