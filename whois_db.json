@@ -7730,6 +7730,11 @@
             "expiration_date": "23-apr-2019",
             "state": "future"
         },
+        "zaho.pl": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
         "zaile-umrzesz.pl": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
@@ -7758,6 +7763,11 @@
         "zalukajfilmy.pl": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "zantech.pl": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
             "state": "future"
         },
         "zapisujemy24.pl": {
@@ -7808,7 +7818,7 @@
         "zarobicprzezinternet.com": {
             "epoch": "1556064000",
             "expiration_date": "24-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "zastrzyk-gotowki.waw.pl": {
             "epoch": "1559520000",
@@ -7823,6 +7833,11 @@
         "zdaj-to.pl": {
             "epoch": "1560038400",
             "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "zdalnehobby.pl": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
             "state": "future"
         },
         "zebrapozyczki.pl": {
