@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/KADhosts_azet12/domains.list": {
-        "1557325259": [
+        "1557498151": [
             "0xm.com.pl",
             "10gb.6ka.info",
             "5000cotydzien.net",
@@ -58,7 +58,6 @@
             "leksimobile.com",
             "localmeets.club",
             "lp.rewardhub2.club",
-            "m.smsquiz.pl",
             "m.zlotysms.pl",
             "maccleaner3.r.worldssl.net",
             "malydziennki.pl",
@@ -104,7 +103,9 @@
             "skracacz.com",
             "slodkieklamstewka.eu",
             "sprawdz-to.ga",
-            "ssl.cf6.rackcdn.com",
+            "ssl.cf6.rackcdn.com"
+        ],
+        "to_test": [
             "steamadd.pl",
             "store-red.zostan-zwyciezca.com",
             "superiqtest.pl",
@@ -118,6 +119,7 @@
             "telecop.in.net",
             "tracersotra199.com",
             "track.walentynkowyprezent.pl",
+            "ver.ovh",
             "welovetheapp.com",
             "wiadomosci-tv24-onet.eu",
             "wikingowie.tv",
@@ -335,6 +337,23 @@
             "www.readyfile.pl",
             "www.regme.pl",
             "www.rex.co.pl",
+            "www.riverparkbaseball.org",
+            "www.rodoabc.pl",
+            "www.rtv-delta.com",
+            "www.rtvagdpro.net",
+            "www.sadman2.agency",
+            "www.santos24.net",
+            "www.sapynews.com",
+            "www.schington.com",
+            "www.sendspace.pw",
+            "www.senoctis.pl",
+            "www.serendipitygalenite.club",
+            "www.serwis-laptopow-powisle.pl",
+            "www.serwis-laptopow.warszawa.pl",
+            "www.skleplara.pl",
+            "www.sklepnecik.pl",
+            "www.smallshop.pl",
+            "www.smartoffer.site",
             "www.something-wrong5.agency",
             "www.something-wrong9.agency",
             "www.sos-info-migrator.pl",
@@ -415,26 +434,6 @@
             "zostan-testerka.club",
             "zweryfikuj-sie.eu",
             "zwyciezcy-konkursu.ml"
-        ],
-        "to_test": [
-            "ver.ovh",
-            "www.riverparkbaseball.org",
-            "www.rodoabc.pl",
-            "www.rtv-delta.com",
-            "www.rtvagdpro.net",
-            "www.sadman2.agency",
-            "www.santos24.net",
-            "www.sapynews.com",
-            "www.schington.com",
-            "www.sendspace.pw",
-            "www.senoctis.pl",
-            "www.serendipitygalenite.club",
-            "www.serwis-laptopow-powisle.pl",
-            "www.serwis-laptopow.warszawa.pl",
-            "www.skleplara.pl",
-            "www.sklepnecik.pl",
-            "www.smallshop.pl",
-            "www.smartoffer.site"
         ]
     }
 }
