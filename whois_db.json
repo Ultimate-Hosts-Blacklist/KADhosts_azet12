@@ -1150,9 +1150,9 @@
         "state": "future"
     },
     "clube62.date": {
-        "epoch": "1557792000",
+        "epoch": 1557792000,
         "expiration_date": "14-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "code-new.com": {
         "epoch": "1588032000",
@@ -2470,8 +2470,8 @@
         "state": "future"
     },
     "firead.org": {
-        "epoch": "1557532800",
-        "expiration_date": "11-may-2019",
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "fireads.online": {
@@ -2812,6 +2812,11 @@
     "geniustrainer.net": {
         "epoch": "1558137600",
         "expiration_date": "18-may-2019",
+        "state": "future"
+    },
+    "gerotel.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "getcouponsfast.com": {
@@ -4835,8 +4840,8 @@
         "state": "future"
     },
     "notifyday.com": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "novumedical.pl": {
