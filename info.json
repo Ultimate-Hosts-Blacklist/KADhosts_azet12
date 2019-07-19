@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 113,
-            "invalid": 0,
-            "tested": 2373,
-            "up": 2260
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Jul 17 15:22:18 2019",
-    "end_epoch": 1563376938.130572,
+    "end_datetime": "Fri Jul 19 15:23:15 2019",
+    "end_epoch": 1563549795.089405,
     "last_autosave_datetime": "Fri Jul 19 15:13:07 2019",
     "last_autosave_epoch": 1563549187.337535,
     "name": "KADhosts_azet12",
     "previous_stats": {
         "builds": 2,
-        "clean.list": 3168,
+        "clean.list": 3251,
         "counter": {
-            "down": 544,
+            "down": 521,
             "invalid": 0,
-            "tested": 3712,
-            "up": 3168
+            "tested": 3772,
+            "up": 3251
         },
-        "domains.list": 3712,
-        "volatile.list": 3174,
-        "whitelisted.list": 3168
+        "domains.list": 3772,
+        "volatile.list": 3257,
+        "whitelisted.list": 3251
     },
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
     "start_datetime": "Fri Jul 19 15:03:00 2019",
