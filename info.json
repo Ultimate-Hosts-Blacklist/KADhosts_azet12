@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 5,
+        "builds": 6,
         "counter": {
-            "down": 236,
+            "down": 337,
             "invalid": 2,
-            "tested": 3817,
-            "up": 3579
+            "tested": 4269,
+            "up": 3930
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Nov 24 15:19:09 2019",
     "end_epoch": 1574608749.188165,
-    "last_autosave_datetime": "Mon Nov 25 15:13:23 2019",
-    "last_autosave_epoch": 1574694803.851595,
+    "last_autosave_datetime": "Mon Nov 25 16:12:44 2019",
+    "last_autosave_epoch": 1574698364.422058,
     "name": "KADhosts_azet12",
     "previous_stats": {
         "builds": 34,
