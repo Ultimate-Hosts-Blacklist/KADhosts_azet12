@@ -1824,6 +1824,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "highamnet.co.uk": {
+        "epoch": 1575676800.0,
+        "expiration_date": "07-dec-2019",
+        "state": "past"
+    },
     "hitvisit.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
@@ -2889,6 +2894,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "phuwinstal.pl": {
+        "epoch": 1576972800.0,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
     "pinamo.pl": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
@@ -3390,9 +3400,9 @@
         "state": "future"
     },
     "sendspace.pl": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "senoctis.pl": {
         "epoch": 1576195200.0,
