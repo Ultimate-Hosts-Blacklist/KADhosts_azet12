@@ -1174,6 +1174,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "eco-flow.pl": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
     "ecomotto.pl": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
@@ -3487,7 +3492,7 @@
     "shoegallery.com.pl": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "shoesvclub.com": {
         "epoch": 1584835200.0,
