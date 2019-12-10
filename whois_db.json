@@ -1859,6 +1859,11 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "hlbotsale.store": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
     "hokaeshop.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
@@ -4370,9 +4375,9 @@
         "state": "future"
     },
     "xpeanuts.pl": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
     },
     "xruletka.pl": {
         "epoch": 1575936000.0,
