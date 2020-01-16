@@ -609,6 +609,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "ksiazkiokomunikacji.pl": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "kurierania.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
@@ -977,7 +982,7 @@
     "stylovemeble.pl": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "super-pay.me": {
         "epoch": 1594339200.0,
