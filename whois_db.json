@@ -229,6 +229,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "clothmmt.club": {
+        "epoch": 1575676800.0,
+        "expiration_date": "07-dec-2019",
+        "state": "past"
+    },
     "clubitaliano.pl": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
@@ -937,6 +942,11 @@
     "runshoes.pl": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "s-pay24.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "sapynews.com": {
