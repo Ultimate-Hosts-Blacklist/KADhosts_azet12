@@ -684,6 +684,11 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "kipokahynr.xyz": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
     "kixshop.pl": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
@@ -1347,7 +1352,7 @@
     "verypl.net": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "vexacion.com": {
         "epoch": 1583366400.0,
