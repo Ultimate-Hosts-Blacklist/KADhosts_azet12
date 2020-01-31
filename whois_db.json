@@ -39,6 +39,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "agdeer.com": {
+        "epoch": 1576540800.0,
+        "expiration_date": "17-dec-2019",
+        "state": "past"
+    },
     "agdkom.net": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
@@ -519,6 +524,11 @@
         "expiration_date": "11-dec-2020",
         "state": "future"
     },
+    "heckcallohertons.info": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
     "herrakop.co": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -762,6 +772,11 @@
     "miresnahapsi.pro": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "mobileofferplace.site": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "mopik.pl": {
@@ -1284,9 +1299,19 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "twojhoroskop.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "udater.net": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "ultratrck.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "unverf.com": {
@@ -1327,6 +1352,11 @@
     "windpl.org": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "winfactory.pl": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "wisebanc.com": {
