@@ -852,7 +852,7 @@
     "news-onet24.pl": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "newsinsider.me": {
         "epoch": 1610841600.0,
@@ -1115,9 +1115,9 @@
         "state": "future"
     },
     "riverparkbaseball.org": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
     },
     "rtvagdpro.net": {
         "epoch": 1599350400.0,
