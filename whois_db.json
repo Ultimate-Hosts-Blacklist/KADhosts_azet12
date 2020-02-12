@@ -45,9 +45,9 @@
         "state": "past"
     },
     "agdrtv24.net": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
-        "state": "past"
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
     },
     "ailegro.pl.ua": {
         "epoch": 1593734400.0,
@@ -390,9 +390,9 @@
         "state": "future"
     },
     "europronet.net": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
-        "state": "past"
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
     },
     "eurortv.net": {
         "epoch": 1583020800.0,
@@ -1377,6 +1377,11 @@
     "uio7.pl": {
         "epoch": 1582934400.0,
         "expiration_date": "29-feb-2020",
+        "state": "future"
+    },
+    "ultratrck.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "unverf.com": {
