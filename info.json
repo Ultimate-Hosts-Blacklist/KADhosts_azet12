@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 333,
+        "builds": 334,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "Filtry chroniace przed przekretami takimi jak subskrypcje SMS",
     "end_datetime": "2020-03-03T15:33:04.837863",
     "end_epoch": 1582928599.736744,
+    "issue_link": "https://github.com/PolishFiltersTeam/KADhosts/issues/new/choose",
     "last_autosave_datetime": "2020-03-03T15:33:04.837886",
     "last_autosave_epoch": 1583245995.270615,
+    "link": "https://github.com/PolishFiltersTeam/KADhosts",
     "name": "KADhosts_azet12",
     "previous_stats": {
         "builds": 17,
@@ -35,9 +38,6 @@
         "whitelisted.list": 6896
     },
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
-    "link": "https://github.com/PolishFiltersTeam/KADhosts",
-    "issue_link": "https://github.com/PolishFiltersTeam/KADhosts/issues/new/choose",
-    "description": "Filtry chroniace przed przekretami takimi jak subskrypcje SMS",
     "start_datetime": "2020-03-03T15:33:04.842525",
     "start_epoch": 1583083328.927252
 }
