@@ -117,7 +117,7 @@
     "abckredyt.net": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "abipoland.pl": {
         "epoch": 1601078400.0,
@@ -1612,6 +1612,11 @@
     "bigdater.me": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "bijou-passion.pl": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "biletka.pl": {
