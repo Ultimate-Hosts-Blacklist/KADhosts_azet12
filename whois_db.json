@@ -785,8 +785,8 @@
         "state": "future"
     },
     "aktywnytylicz.pl": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "akumulatorowy-raj.pl": {
@@ -2332,7 +2332,7 @@
     "biznesplay.biz": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bkwbydgoszcz.pl": {
         "epoch": 1591747200.0,
@@ -4709,6 +4709,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "drogoweplyty.pl": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "drsaritabhalerao.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
@@ -5712,6 +5717,11 @@
     "europartner.pl": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "europaubram.pl": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "europeancupkyokushin.pl": {
@@ -8394,6 +8404,11 @@
         "expiration_date": "11-may-2021",
         "state": "future"
     },
+    "ikaart.pl": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "ikoronawirusnews.pl": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -9994,6 +10009,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "kryzyspolska.pl": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
     "krzycztrybson.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -10824,6 +10844,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "maccleaner.space": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "maceju.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -11637,6 +11662,11 @@
     "mobistos.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "mobiwin.pl": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "mobjmp.com": {
@@ -15689,6 +15719,11 @@
         "expiration_date": "30-may-2021",
         "state": "future"
     },
+    "reebokpl.pl": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "reebokpromocje.pl": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -16369,6 +16404,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "secondland.pl": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "secure-eplatnosc.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
@@ -16749,6 +16789,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "skbm.pl": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
     "skechersbuty.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
@@ -16817,6 +16862,11 @@
     "skleppolo.pl": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "sklepszkolen.pl": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "skleptanie.pl": {
@@ -20982,6 +21032,11 @@
     "zxflux.pl": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
+    "zyski-z-innowacji.pl": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     }
 }
