@@ -3594,6 +3594,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "cleanpro.com.pl": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "clic-douaisis.fr": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
@@ -9407,7 +9412,7 @@
     "kaaryathalo.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "kacpslaw.pl": {
         "epoch": 1603584000.0,
@@ -11669,6 +11674,11 @@
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
+    "michalson.pl": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "miejscedlastudenta.pl": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -13272,6 +13282,11 @@
     "ogloszeniagratis.pl": {
         "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
+        "state": "future"
+    },
+    "ogloszenie.best": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "ogloszenie.space": {
