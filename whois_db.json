@@ -11754,6 +11754,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "mgid.com": {
+        "epoch": 1640822400.0,
+        "expiration_date": "30-dec-2021",
+        "state": "future"
+    },
     "mgokswiatniki.pl": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -11980,9 +11985,9 @@
         "state": "future"
     },
     "mobileaps.co": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
-        "state": "past"
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
     },
     "mobilejmp.com": {
         "epoch": 1623628800.0,
@@ -21120,6 +21125,11 @@
         "state": "future"
     },
     "xn--faktygwat-xub.com.pl": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
+    "xn--faktygwat-xub.net.pl": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
         "state": "future"
