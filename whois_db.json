@@ -4462,7 +4462,7 @@
     "djarumgol.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dketrade.top": {
         "epoch": 1618012800.0,
@@ -4820,8 +4820,8 @@
         "state": "future"
     },
     "drmartenspolska.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "drmartenstanio.pl": {
@@ -12662,6 +12662,11 @@
     "naprzekor.com.pl": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "narpol.com.pl": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "nartypomorze.pl": {
@@ -20760,8 +20765,8 @@
         "state": "future"
     },
     "windgrojec.pl": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
         "state": "future"
     },
     "windoor-kielce.pl": {
