@@ -7419,6 +7419,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "gazetamazowska.pl": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
+    },
     "gazetanowoczesna.pl": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -9640,9 +9645,9 @@
         "state": "future"
     },
     "kaaryathalo.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "kacpslaw.pl": {
         "epoch": 1603584000.0,
