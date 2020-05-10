@@ -3314,6 +3314,11 @@
         "expiration_date": "20-feb-2021",
         "state": "future"
     },
+    "cdp.pl": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "cdsp.pl": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -12149,6 +12154,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "mestro.pl": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "metaankieta.pl": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
@@ -15872,6 +15882,11 @@
     "praktykiplus.pl": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "pralniamp.pl": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "pranksduck.xyz": {
@@ -19629,12 +19644,27 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "tekerstreet11.live": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "tekerstreet12.live": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "tekerstreet13.live": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
         "state": "future"
     },
     "tekerstreet15.live": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "tekerstreet16.live": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
         "state": "future"
