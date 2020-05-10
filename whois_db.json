@@ -4229,6 +4229,11 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "dariuszlaksa.pl": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "darknessintheforest.pl": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -8502,6 +8507,11 @@
     "helidog.pl": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "hellbellas.pl": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "herbabyqba.pl": {
@@ -19667,7 +19677,7 @@
     "teespoon.co": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tekerstreet10.live": {
         "epoch": 1620518400.0,
