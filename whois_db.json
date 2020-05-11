@@ -989,6 +989,11 @@
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
+    "allegro-blokada.pl": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "allegro.targi.pl": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -4124,6 +4129,11 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "curtainhardsh12.live": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "curtainhardsh13.live": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -4134,7 +4144,27 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "curtainhardsh17.live": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "curtainhardsh18.live": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "curtainhardsh19.live": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "curtainhardsh2.live": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "curtainhardsh22.live": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
         "state": "future"
@@ -6917,7 +6947,7 @@
     "fireads.pl": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "firebid.pl": {
         "epoch": 1616198400.0,
@@ -11404,7 +11434,17 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "listentome7.live": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "listentome8.live": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "listentome9.live": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
         "state": "future"
