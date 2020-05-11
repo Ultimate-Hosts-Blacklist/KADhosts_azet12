@@ -6672,7 +6672,7 @@
     "file-share365.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "filebay.org": {
         "epoch": 1619568000.0,
@@ -9960,6 +9960,11 @@
         "state": "future"
     },
     "jsdevelopmentq3.live": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "jsdevelopmentq4.live": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
         "state": "future"
@@ -15232,6 +15237,11 @@
     "piskorski-cases.com.pl": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "pitform.pl": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "pitfree.pl": {
