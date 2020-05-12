@@ -919,6 +919,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "alert-24-pl.pl": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
     "alerter.pl": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -4199,6 +4204,11 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "curtainhardsh15.live": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "curtainhardsh16.live": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -7055,8 +7065,8 @@
         "state": "future"
     },
     "firead.org": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "fireads.online": {
@@ -21832,6 +21842,11 @@
     "washtrans.pl": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
+    "wawa-fakty24.pl": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "wawalot.pl": {
