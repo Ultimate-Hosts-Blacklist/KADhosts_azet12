@@ -521,8 +521,8 @@
         "dotpay.ipocztapolska.pl": {
             "included_at_epoch": 1588792721.554627,
             "included_at_iso": "2020-05-06T19:18:41.554627",
-            "last_retested_at_epoch": 1589281986.57135,
-            "last_retested_at_iso": "2020-05-12T11:13:06.571350",
+            "last_retested_at_epoch": 1589408589.197488,
+            "last_retested_at_iso": "2020-05-13T22:23:09.197488",
             "status": "INACTIVE"
         },
         "dotpay.monitoring-pocztapolska.net": {
@@ -535,8 +535,8 @@
         "dotpay.pocztapolska48.com": {
             "included_at_epoch": 1588476091.0,
             "included_at_iso": "2020-05-03T03:21:31",
-            "last_retested_at_epoch": 1589138130.492465,
-            "last_retested_at_iso": "2020-05-10T19:15:30.492465",
+            "last_retested_at_epoch": 1589408956.351418,
+            "last_retested_at_iso": "2020-05-13T22:29:16.351418",
             "status": "INACTIVE"
         },
         "dotpay.pocztex-poland.net": {
@@ -808,8 +808,8 @@
         "familyclean.pl": {
             "included_at_epoch": 1588420286.0,
             "included_at_iso": "2020-05-02T11:51:26",
-            "last_retested_at_epoch": 1589286584.18296,
-            "last_retested_at_iso": "2020-05-12T12:29:44.182960",
+            "last_retested_at_epoch": 1589408558.130343,
+            "last_retested_at_iso": "2020-05-13T22:22:38.130343",
             "status": "INACTIVE"
         },
         "fikus-lodz.pl": {
@@ -3398,8 +3398,8 @@
         "www.alsbean.com": {
             "included_at_epoch": 1588393102.0,
             "included_at_iso": "2020-05-02T04:18:22",
-            "last_retested_at_epoch": 1589195601.693881,
-            "last_retested_at_iso": "2020-05-11T11:13:21.693881",
+            "last_retested_at_epoch": 1589408549.717934,
+            "last_retested_at_iso": "2020-05-13T22:22:29.717934",
             "status": "INACTIVE"
         },
         "www.alteregocafe.pl": {
@@ -3447,8 +3447,8 @@
         "www.andekkurier.org": {
             "included_at_epoch": 1588429100.0,
             "included_at_iso": "2020-05-02T14:18:20",
-            "last_retested_at_epoch": 1589317654.209597,
-            "last_retested_at_iso": "2020-05-12T21:07:34.209597",
+            "last_retested_at_epoch": 1589408955.989745,
+            "last_retested_at_iso": "2020-05-13T22:29:15.989745",
             "status": "INACTIVE"
         },
         "www.android-cleaner.net": {
@@ -4959,8 +4959,8 @@
         "www.dotpay.ipocztapolska.pl": {
             "included_at_epoch": 1588466920.0,
             "included_at_iso": "2020-05-03T00:48:40",
-            "last_retested_at_epoch": 1588805133.264723,
-            "last_retested_at_iso": "2020-05-06T22:45:33.264723",
+            "last_retested_at_epoch": 1589408589.215661,
+            "last_retested_at_iso": "2020-05-13T22:23:09.215661",
             "status": "INACTIVE"
         },
         "www.dotpay.pocztapolska48.com": {
@@ -6079,8 +6079,8 @@
         "www.familyclean.pl": {
             "included_at_epoch": 1588420290.0,
             "included_at_iso": "2020-05-02T11:51:30",
-            "last_retested_at_epoch": 1589286584.720237,
-            "last_retested_at_iso": "2020-05-12T12:29:44.720237",
+            "last_retested_at_epoch": 1589408558.37182,
+            "last_retested_at_iso": "2020-05-13T22:22:38.371820",
             "status": "INACTIVE"
         },
         "www.farmacjacmuj.pl": {
@@ -6569,8 +6569,8 @@
         "www.giuliakurier.org": {
             "included_at_epoch": 1588269002.0,
             "included_at_iso": "2020-04-30T17:50:02",
-            "last_retested_at_epoch": 1589060126.714437,
-            "last_retested_at_iso": "2020-05-09T21:35:26.714437",
+            "last_retested_at_epoch": 1589408735.34594,
+            "last_retested_at_iso": "2020-05-13T22:25:35.345940",
             "status": "INACTIVE"
         },
         "www.givehopeahand.org": {
@@ -6844,6 +6844,13 @@
             "included_at_iso": "2020-05-02T16:55:07",
             "last_retested_at_epoch": 1589181161.204807,
             "last_retested_at_iso": "2020-05-11T07:12:41.204807",
+            "status": "INACTIVE"
+        },
+        "www.hokaoneonepolska.pl": {
+            "included_at_epoch": 1589408763.525908,
+            "included_at_iso": "2020-05-13T22:26:03.525908",
+            "last_retested_at_epoch": 1589408763.525908,
+            "last_retested_at_iso": "2020-05-13T22:26:03.525908",
             "status": "INACTIVE"
         },
         "www.hokaoneshop.com": {
@@ -7717,8 +7724,8 @@
         "www.kinofilm-tv.pl": {
             "included_at_epoch": 1588291901.0,
             "included_at_iso": "2020-05-01T00:11:41",
-            "last_retested_at_epoch": 1589138178.047137,
-            "last_retested_at_iso": "2020-05-10T19:16:18.047137",
+            "last_retested_at_epoch": 1589408934.564062,
+            "last_retested_at_iso": "2020-05-13T22:28:54.564062",
             "status": "INACTIVE"
         },
         "www.kinomaniac.pl": {
@@ -8585,8 +8592,8 @@
         "www.naporost.pl": {
             "included_at_epoch": 1588296804.0,
             "included_at_iso": "2020-05-01T01:33:24",
-            "last_retested_at_epoch": 1589259716.714457,
-            "last_retested_at_iso": "2020-05-12T05:01:56.714457",
+            "last_retested_at_epoch": 1589408848.298496,
+            "last_retested_at_iso": "2020-05-13T22:27:28.298496",
             "status": "INACTIVE"
         },
         "www.napraw-laptopa.waw.pl": {
@@ -9240,6 +9247,13 @@
             "last_retested_at_iso": "2020-05-13T14:16:09.563984",
             "status": "INACTIVE"
         },
+        "www.paczka-doplata.net": {
+            "included_at_epoch": 1589408996.874211,
+            "included_at_iso": "2020-05-13T22:29:56.874211",
+            "last_retested_at_epoch": 1589408996.874211,
+            "last_retested_at_iso": "2020-05-13T22:29:56.874211",
+            "status": "INACTIVE"
+        },
         "www.paczka.poczta-pay.com": {
             "included_at_epoch": 1582917902.0,
             "included_at_iso": "2020-02-28T19:25:02",
@@ -9313,15 +9327,15 @@
         "www.paqu24.com": {
             "included_at_epoch": 1588387896.0,
             "included_at_iso": "2020-05-02T02:51:36",
-            "last_retested_at_epoch": 1589017084.861115,
-            "last_retested_at_iso": "2020-05-09T09:38:04.861115",
+            "last_retested_at_epoch": 1589408832.164858,
+            "last_retested_at_iso": "2020-05-13T22:27:12.164858",
             "status": "INACTIVE"
         },
         "www.paqu24.org": {
             "included_at_epoch": 1588397364.0,
             "included_at_iso": "2020-05-02T05:29:24",
-            "last_retested_at_epoch": 1589303570.110805,
-            "last_retested_at_iso": "2020-05-12T17:12:50.110805",
+            "last_retested_at_epoch": 1589408953.040367,
+            "last_retested_at_iso": "2020-05-13T22:29:13.040367",
             "status": "INACTIVE"
         },
         "www.paraphingxmfevapk.xyz": {
@@ -9509,8 +9523,8 @@
         "www.pininfarina.dynalias.com": {
             "included_at_epoch": 1588411502.0,
             "included_at_iso": "2020-05-02T09:25:02",
-            "last_retested_at_epoch": 1589195603.667231,
-            "last_retested_at_iso": "2020-05-11T11:13:23.667231",
+            "last_retested_at_epoch": 1589408567.35196,
+            "last_retested_at_iso": "2020-05-13T22:22:47.351960",
             "status": "INACTIVE"
         },
         "www.pinmova.xyz": {
@@ -9775,8 +9789,8 @@
         "www.poczta-polska247.com": {
             "included_at_epoch": 1588800922.958091,
             "included_at_iso": "2020-05-06T21:35:22.958091",
-            "last_retested_at_epoch": 1589030494.230435,
-            "last_retested_at_iso": "2020-05-09T13:21:34.230435",
+            "last_retested_at_epoch": 1589408814.577718,
+            "last_retested_at_iso": "2020-05-13T22:26:54.577718",
             "status": "INACTIVE"
         },
         "www.poczta-polska48.eu": {
@@ -10223,8 +10237,8 @@
         "www.poszukiwania24.pl": {
             "included_at_epoch": 1588372671.0,
             "included_at_iso": "2020-05-01T22:37:51",
-            "last_retested_at_epoch": 1589317643.944388,
-            "last_retested_at_iso": "2020-05-12T21:07:23.944388",
+            "last_retested_at_epoch": 1589408793.541757,
+            "last_retested_at_iso": "2020-05-13T22:26:33.541757",
             "status": "INACTIVE"
         },
         "www.poszukiwania24.site": {
@@ -10286,8 +10300,8 @@
         "www.pranksduck.xyz": {
             "included_at_epoch": 1588338120.0,
             "included_at_iso": "2020-05-01T13:02:00",
-            "last_retested_at_epoch": 1589200682.893155,
-            "last_retested_at_iso": "2020-05-11T12:38:02.893155",
+            "last_retested_at_epoch": 1589408550.183091,
+            "last_retested_at_iso": "2020-05-13T22:22:30.183091",
             "status": "INACTIVE"
         },
         "www.premiumlink.7tools.eu": {
@@ -10608,8 +10622,8 @@
         "www.qooqle-play.com": {
             "included_at_epoch": 1588364285.0,
             "included_at_iso": "2020-05-01T20:18:05",
-            "last_retested_at_epoch": 1589249959.086698,
-            "last_retested_at_iso": "2020-05-12T02:19:19.086698",
+            "last_retested_at_epoch": 1589408908.361783,
+            "last_retested_at_iso": "2020-05-13T22:28:28.361783",
             "status": "INACTIVE"
         },
         "www.qooqle-play.eu": {
@@ -10741,8 +10755,8 @@
         "www.revitib.com": {
             "included_at_epoch": 1588315851.0,
             "included_at_iso": "2020-05-01T06:50:51",
-            "last_retested_at_epoch": 1589308235.296333,
-            "last_retested_at_iso": "2020-05-12T18:30:35.296333",
+            "last_retested_at_epoch": 1589408990.374128,
+            "last_retested_at_iso": "2020-05-13T22:29:50.374128",
             "status": "INACTIVE"
         },
         "www.riverparkbaseball.org": {
@@ -10825,8 +10839,8 @@
         "www.s-foto.pl": {
             "included_at_epoch": 1588397476.0,
             "included_at_iso": "2020-05-02T05:31:16",
-            "last_retested_at_epoch": 1589281842.091632,
-            "last_retested_at_iso": "2020-05-12T11:10:42.091632",
+            "last_retested_at_epoch": 1589408805.401643,
+            "last_retested_at_iso": "2020-05-13T22:26:45.401643",
             "status": "INACTIVE"
         },
         "www.s-pay24.com": {
@@ -10895,8 +10909,8 @@
         "www.sebbike.pl": {
             "included_at_epoch": 1588611172.348431,
             "included_at_iso": "2020-05-04T16:52:52.348431",
-            "last_retested_at_epoch": 1589299690.17752,
-            "last_retested_at_iso": "2020-05-12T16:08:10.177520",
+            "last_retested_at_epoch": 1589408515.091557,
+            "last_retested_at_iso": "2020-05-13T22:21:55.091557",
             "status": "INACTIVE"
         },
         "www.secure-eplatnosc.com": {
