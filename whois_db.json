@@ -3827,7 +3827,7 @@
     "codenpic.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "colex-rowery.com.pl": {
         "epoch": 1595548800.0,
@@ -4130,8 +4130,8 @@
         "state": "future"
     },
     "credy.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "cristianlay.com": {
@@ -5982,6 +5982,11 @@
     "emobi-sys.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "emonitoring-poczta24.net": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "emonitoring-poczta48.net": {
@@ -9494,6 +9499,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "info24-warszawa.pl": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
+    },
     "infogrypa.pl": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -11617,6 +11627,11 @@
     "lexatrade.com": {
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
+    "lexlale.com.pl": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "leyda.pl": {
@@ -19417,7 +19432,7 @@
     "stajniabatanka.pl": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "stakim.org": {
         "epoch": 1597276800.0,
