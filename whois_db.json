@@ -7304,6 +7304,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "flyingintheclouds19.live": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
+    },
     "flyszop.pl": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
@@ -8057,7 +8062,7 @@
     "gest24.pl": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "getalinkandshare.com": {
         "epoch": 1601856000.0,
