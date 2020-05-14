@@ -9199,6 +9199,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "hurtsilvermagic.pl": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "hydrawarszawa.pl": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
@@ -11780,6 +11785,11 @@
         "state": "future"
     },
     "listentome2.live": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "listentome3.live": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
         "state": "future"
@@ -16322,7 +16332,7 @@
     "popshoes.pl": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "poradnikprofesjonalistki.pl": {
         "epoch": 1605225600.0,
