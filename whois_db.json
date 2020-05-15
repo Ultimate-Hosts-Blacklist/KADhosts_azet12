@@ -4972,7 +4972,7 @@
     "domniespodzianek.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "domowy-sprzet.pl": {
         "epoch": 1584662400.0,
@@ -5577,6 +5577,11 @@
     "e-yourmovies.pl": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "e24gwaltfakt.pl": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "earnyourcash.net": {
@@ -21635,8 +21640,8 @@
         "state": "future"
     },
     "usmiechtarnowa.pl": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "usunwirusa.pl": {
