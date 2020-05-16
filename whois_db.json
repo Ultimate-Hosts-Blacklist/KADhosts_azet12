@@ -1745,8 +1745,8 @@
         "state": "future"
     },
     "autokemar.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "autokraina.pl": {
@@ -10360,9 +10360,9 @@
         "state": "future"
     },
     "ju-ma.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
     },
     "judokalisz.pl": {
         "epoch": 1605484800.0,
@@ -16122,6 +16122,11 @@
     "poczta-polska247.com": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "poczta-polska3.pl": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "poczta-polska48.net": {
