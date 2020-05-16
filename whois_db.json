@@ -8289,6 +8289,11 @@
         "expiration_date": "14-may-2021",
         "state": "future"
     },
+    "gkpge2.pl": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "gkpge3.pl": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -8760,6 +8765,11 @@
         "state": "future"
     },
     "gwaltwiadomosc.com.pl": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "gwaltwiadomosc.pl": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
         "state": "future"
@@ -23432,7 +23442,7 @@
     "zgarnij.net": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zgarnijplik.pl": {
         "epoch": 1605052800.0,
