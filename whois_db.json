@@ -9312,7 +9312,7 @@
     "hpaudiobooksfree.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hrekcustomer.icu": {
         "epoch": 1614211200.0,
@@ -14492,6 +14492,11 @@
     "norton.pl": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "notariuszpetrus.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "notatnik-poliglotki.pl": {
