@@ -7574,6 +7574,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "fotografnapiatke.com.pl": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
+    },
     "fotografnapiatke.net.pl": {
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
@@ -8845,6 +8850,11 @@
         "state": "future"
     },
     "gwaltmonitoring.pl": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
+    "gwaltpolska.com.pl": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
         "state": "future"
@@ -22747,7 +22757,7 @@
     "wincleanerpro.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "windgrojec.pl": {
         "epoch": 1591315200.0,
