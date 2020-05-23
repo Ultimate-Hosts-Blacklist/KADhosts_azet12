@@ -779,6 +779,11 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "akademia-kursow-rozwojowych.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "akademiajasia.pl": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
@@ -8307,7 +8312,7 @@
     "gigup.net": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gikon.pl": {
         "epoch": 1592956800.0,
