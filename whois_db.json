@@ -2555,8 +2555,8 @@
         "state": "future"
     },
     "blogonews.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "blok-gp.com.pl": {
@@ -6762,6 +6762,11 @@
     "fajnewierszyki.pl": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "fakt24-mazowieckie.pl": {
+        "epoch": 1590969600.0,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "fakt24warszawa.com.pl": {
@@ -12944,6 +12949,11 @@
         "expiration_date": "27-may-2020",
         "state": "future"
     },
+    "mazowieckie-fakt24.pl": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
     "mazowieckie-fakty24.pl": {
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
@@ -13800,8 +13810,8 @@
         "state": "future"
     },
     "multi-col.pl": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "muppetowecentrum.pl": {
@@ -17312,7 +17322,7 @@
     "programrefundacji.pl": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "programyhakerskie.pl": {
         "epoch": 1615680000.0,
@@ -21535,8 +21545,8 @@
         "state": "future"
     },
     "towarzyskizamosc.pl": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "townhill.pl": {
