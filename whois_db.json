@@ -7412,7 +7412,7 @@
     "firma-kalita.pl": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "firstweb.pl": {
         "epoch": 1617321600.0,
@@ -9144,6 +9144,16 @@
         "expiration_date": "27-may-2021",
         "state": "future"
     },
+    "headregret14.live": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
+    "headregret16.live": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
     "headregret18.live": {
         "epoch": 1622073600.0,
         "expiration_date": "27-may-2021",
@@ -9967,6 +9977,11 @@
     "inochigniezno.pl": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
+    "inovscope.pt": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "inpost24.me": {
@@ -23707,7 +23722,7 @@
     "you-and-me.pl": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "your-movies.pl": {
         "epoch": 1591228800.0,
