@@ -6194,6 +6194,11 @@
         "expiration_date": "16-may-2021",
         "state": "future"
     },
+    "emonitoring24.online": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
+    },
     "emonitoringpoczta24.net": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -8924,12 +8929,27 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "greenelephants12.live": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "greenelephants14.live": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
         "state": "future"
     },
     "greenelephants2.live": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "greenelephants5.live": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "greenelephants7.live": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
         "state": "future"
@@ -12540,8 +12560,8 @@
         "state": "future"
     },
     "lommi.pl": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "lomzynskie.pl": {
@@ -23947,7 +23967,7 @@
     "zagiel-przeciwsloneczny-pl.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zaglebiefanatykow.pl": {
         "epoch": 1591401600.0,
