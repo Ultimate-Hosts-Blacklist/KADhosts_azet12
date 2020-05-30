@@ -5154,6 +5154,11 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "dotpay2.pl": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
     "doulawpoznaniu.pl": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
@@ -6632,7 +6637,7 @@
     "eworldtrack.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "excelz.com": {
         "epoch": 1694304000.0,
@@ -21615,8 +21620,8 @@
         "state": "future"
     },
     "thelogo.pl": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "themarketriser.com": {
