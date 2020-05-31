@@ -9817,7 +9817,7 @@
     "hurtowniaolenka.pl": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hurtsilvermagic.pl": {
         "epoch": 1607644800.0,
@@ -22667,6 +22667,11 @@
     "usunwirusa.pl": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "uswiadomieni.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "uvy3.pl": {
