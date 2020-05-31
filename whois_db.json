@@ -1434,6 +1434,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "appleidworld.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "appsdorado.com": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
@@ -9184,6 +9189,11 @@
         "expiration_date": "18-may-2021",
         "state": "future"
     },
+    "gwaltpolska.net.pl": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "gwaltpolska.pl": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
@@ -10852,7 +10862,7 @@
     "jordenmadsen.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "jquerysxur6.live": {
         "epoch": 1618272000.0,
@@ -22525,8 +22535,8 @@
         "state": "future"
     },
     "unhallowed.pl": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "unident-union.pl": {
