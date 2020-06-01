@@ -2820,8 +2820,8 @@
         "state": "future"
     },
     "brns.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "broadpeakdefense.com": {
@@ -5170,6 +5170,11 @@
         "state": "future"
     },
     "dotpay2.pl": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
+    "dotpay3.pl": {
         "epoch": 1622073600.0,
         "expiration_date": "27-may-2021",
         "state": "future"
@@ -16562,7 +16567,7 @@
     "pitfree.pl": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "pixelbus.pl": {
         "epoch": 1596585600.0,
