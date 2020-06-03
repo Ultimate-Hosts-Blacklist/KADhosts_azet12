@@ -12575,8 +12575,8 @@
         "state": "future"
     },
     "linkdebrideur.xyz": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "linkopedia.pl": {
@@ -18224,6 +18224,11 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "puckiewopr.pl": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
+    },
     "puls-biznesu.info": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
@@ -20107,6 +20112,11 @@
     "skomtczew.pl": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "skorochowszczotka.pl": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "skpfalenty.pl": {
@@ -22459,10 +22469,15 @@
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
+    "trustclth.pl": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
     "trustedirectdownload.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "trusttastic.com": {
         "epoch": 1592697600.0,
