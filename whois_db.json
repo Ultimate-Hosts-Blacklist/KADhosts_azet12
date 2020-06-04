@@ -1424,6 +1424,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "aplikacja-lnpost.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "aplikacjaemuia.pl": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
@@ -4987,6 +4992,11 @@
     "djarumgol.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "djbasu.pl": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "djrafaell.pl": {
@@ -12895,9 +12905,9 @@
         "state": "future"
     },
     "losowa-gra.pl": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
     },
     "lotosart.pl": {
         "epoch": 1602201600.0,
@@ -13040,8 +13050,8 @@
         "state": "future"
     },
     "lumenphoto.pl": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "lunzo.pl": {
