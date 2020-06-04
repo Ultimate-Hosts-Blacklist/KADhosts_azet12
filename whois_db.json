@@ -1509,6 +1509,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "architectos.com.pl": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "arcicalonetal.pro": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -3327,7 +3332,7 @@
     "camerashomeby.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "camiliana.pl": {
         "epoch": 1621900800.0,
@@ -14139,6 +14144,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "mojegolonko.pl": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
     "mojepiwa.pl": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
@@ -20552,7 +20562,7 @@
     "sopot-fakty24.pl": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sornalisokal.com": {
         "epoch": 1621209600.0,
