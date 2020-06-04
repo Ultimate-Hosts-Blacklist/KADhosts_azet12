@@ -7419,6 +7419,11 @@
         "expiration_date": "12-nov-2020",
         "state": "future"
     },
+    "films.com.pl": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "filmspolandxxx.com": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
@@ -8932,7 +8937,7 @@
     "gostyl.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gothic4u.pl": {
         "epoch": 1615593600.0,
@@ -10192,7 +10197,7 @@
     "imagomaris.pl": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "imonellipizzeria.pl": {
         "epoch": 1612396800.0,
@@ -16000,8 +16005,8 @@
         "state": "future"
     },
     "osiedlelipce.pl": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "oskaryfashion.pl": {
@@ -21395,8 +21400,8 @@
         "state": "future"
     },
     "swodnik.pl": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "syds588.cn": {
