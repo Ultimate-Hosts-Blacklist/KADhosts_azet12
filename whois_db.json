@@ -12882,7 +12882,7 @@
     "losowa-gra.pl": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "lotosart.pl": {
         "epoch": 1602201600.0,
@@ -24997,6 +24997,11 @@
     "zmianywzdrowiu.pl": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
+    "zmiltraf.website": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "zmotoryzowani24.pl": {
