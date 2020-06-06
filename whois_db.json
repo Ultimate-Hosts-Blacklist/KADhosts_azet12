@@ -19089,6 +19089,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "regulamin-akceptacja.icu": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "regulamin-interia.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
@@ -19797,7 +19802,7 @@
     "secondhand-gwo24.pl": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "secondland.pl": {
         "epoch": 1596067200.0,
@@ -23207,7 +23212,7 @@
     "uroffer.link": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "urwijnagrody.pl": {
         "epoch": 1593561600.0,
