@@ -6217,7 +6217,7 @@
     "electroenchufe.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "electroline.pl": {
         "epoch": 1598572800.0,
@@ -12675,6 +12675,16 @@
         "state": "future"
     },
     "lifefordatings6.live": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "lifefordatings8.live": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "lifefordatings9.live": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
         "state": "future"
