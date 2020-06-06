@@ -12047,7 +12047,7 @@
     "kredyt-na-pesel.pl": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kredyt24.biz": {
         "epoch": 1622073600.0,
@@ -12632,6 +12632,11 @@
     "life-star.pl": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "lifefordatings1.live": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "lifefordatings12.live": {
@@ -22397,6 +22402,11 @@
     "todolize.com": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "togetherforwine.com": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "tojachtczarter.pl": {
