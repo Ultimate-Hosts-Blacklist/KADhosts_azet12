@@ -8197,7 +8197,7 @@
     "gabinetnewline.pl": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gabinetyterapii-debno.pl": {
         "epoch": 1617321600.0,
@@ -12644,6 +12644,11 @@
         "expiration_date": "05-jun-2021",
         "state": "future"
     },
+    "lifefordatings13.live": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
     "lifefordatings14.live": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -14412,7 +14417,7 @@
     "mozebyctwoje.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mpearsondance.com": {
         "epoch": 1622419200.0,
@@ -22394,6 +22399,11 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "toascik.pl": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "tocho.pl": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
@@ -24030,9 +24040,9 @@
         "state": "future"
     },
     "windpl.org": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "windykacjajagoda.org": {
         "epoch": 1616198400.0,
