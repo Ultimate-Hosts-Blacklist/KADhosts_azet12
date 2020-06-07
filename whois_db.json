@@ -1747,7 +1747,7 @@
     "ateneum-nieruchomosci.pl": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "atforum.pl": {
         "epoch": 1615161600.0,
@@ -9015,9 +9015,9 @@
         "state": "future"
     },
     "gostyl.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "gothic4u.pl": {
         "epoch": 1615593600.0,
@@ -23445,8 +23445,8 @@
         "state": "future"
     },
     "vanspl.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "vanspolska.com": {
