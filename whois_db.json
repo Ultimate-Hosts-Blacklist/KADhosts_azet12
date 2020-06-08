@@ -8152,7 +8152,7 @@
     "functional-business.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "fundacjaazyl.pl": {
         "epoch": 1610409600.0,
@@ -22952,6 +22952,11 @@
     "tumieszkamtukupuje.pl": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "tunehub247shop.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "tunele-rozsaczajace.pl": {
