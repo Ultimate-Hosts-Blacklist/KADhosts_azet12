@@ -18850,9 +18850,9 @@
         "state": "future"
     },
     "pyracity.info": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
-        "state": "past"
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
     },
     "pyrchla.pl": {
         "epoch": 1592265600.0,
@@ -22580,6 +22580,11 @@
         "state": "future"
     },
     "testing3srv5.live": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "testing3srv6.live": {
         "epoch": 1623456000.0,
         "expiration_date": "12-jun-2021",
         "state": "future"
