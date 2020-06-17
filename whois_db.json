@@ -10709,6 +10709,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "intergsm.pl": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "interia-zabezpieczenia.pl": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
@@ -12485,9 +12490,9 @@
         "state": "future"
     },
     "kurierinpost.info": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "kurierjagoda.org": {
         "epoch": 1616198400.0,
@@ -14557,6 +14562,11 @@
     "mojepiwa.pl": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
+    "mojetestery.pl": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "mojezakupy.net": {
@@ -17597,6 +17607,11 @@
     "poczta-polska48.net": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "poczta-polska8.pl": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "poczta-regulamin.com": {
@@ -25252,7 +25267,7 @@
     "zaadoptujstacjeladowania.com.pl": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "zabashop.pl": {
         "epoch": 1618012800.0,
