@@ -19894,6 +19894,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "rezervation-intens.pl": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
     "rezydencjakapitanska.pl": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -22592,7 +22597,7 @@
     "tapxchange.com": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "tarcza24.net": {
         "epoch": 1620259200.0,
