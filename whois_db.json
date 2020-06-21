@@ -7459,6 +7459,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "feniks-tm.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "fenixsiennica.pl": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -10400,8 +10405,8 @@
         "state": "future"
     },
     "i-store365.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "ibokpgnig.pl": {
@@ -19779,6 +19784,11 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "remex-barnas.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "remfoto.pl": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -25267,7 +25277,7 @@
     "wyprzedazobuwie.pl": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "wyremontujklinike.pl": {
         "epoch": 1594512000.0,
