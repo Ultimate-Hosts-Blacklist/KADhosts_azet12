@@ -2457,7 +2457,7 @@
     "bfglasses.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bgprojekt.pl": {
         "epoch": 1593475200.0,
@@ -8462,7 +8462,7 @@
     "funnyfotobox.pl": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "funskan.pl": {
         "epoch": 1598227200.0,
@@ -13467,6 +13467,11 @@
     "losowa-gra.pl": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "lotekkurier.com": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "lotosart.pl": {
@@ -25712,6 +25717,11 @@
     "zalukaj.cc": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "zalukaj.it": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "zalukaj.online": {
