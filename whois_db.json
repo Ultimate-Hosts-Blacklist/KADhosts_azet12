@@ -1069,6 +1069,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "aliorbank.io": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "aliorkurier.org": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -26115,9 +26120,9 @@
         "state": "future"
     },
     "zedgalaxyplays.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
-        "state": "past"
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
     },
     "zelazkowkuchni.pl": {
         "epoch": 1608854400.0,
