@@ -5242,7 +5242,7 @@
     "ditds.xyz": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dizziesquest.xyz": {
         "epoch": 1616630400.0,
@@ -12759,6 +12759,11 @@
         "expiration_date": "20-mar-2021",
         "state": "future"
     },
+    "kurierlotek.org": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
     "kuriero.pl": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
@@ -13692,6 +13697,11 @@
     "lukaszurbanczyk.pl": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "luknijfilm.pl": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "lululo.pl": {
