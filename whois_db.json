@@ -344,6 +344,11 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "achae.com": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
+    },
     "aclante.pl": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -14984,6 +14989,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "monfex.com": {
+        "epoch": 1651276800.0,
+        "expiration_date": "30-apr-2022",
+        "state": "future"
+    },
     "monikajaskowiak.pl": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
@@ -16452,6 +16462,11 @@
     "okularyaviator.pl": {
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "okularypowiekszajace-pl.com": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "okularyrbtanio.pl": {
@@ -21962,7 +21977,7 @@
     "stackspay.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "stadnina-liszkowo.pl": {
         "epoch": 1612310400.0,
