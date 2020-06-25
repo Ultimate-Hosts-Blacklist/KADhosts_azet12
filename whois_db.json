@@ -1119,6 +1119,11 @@
         "expiration_date": "18-jun-2021",
         "state": "future"
     },
+    "allegr0.net": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "allegro-blokada.pl": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -2822,6 +2827,11 @@
     "bnpparibas-bank.pl": {
         "epoch": 1654819200.0,
         "expiration_date": "10-jun-2022",
+        "state": "future"
+    },
+    "bnpparibas-poland.co": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "bobopstryk.pl": {
@@ -9432,7 +9442,7 @@
     "gotowkanadzis.pl": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gotowkatutaj.pl": {
         "epoch": 1614988800.0,
