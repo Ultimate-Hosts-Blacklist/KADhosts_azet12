@@ -9150,8 +9150,8 @@
         "state": "future"
     },
     "gikon.pl": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "gilotyna.com.pl": {
@@ -15142,6 +15142,11 @@
     "mpideas.pl": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "mrgugu.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "mrowkapiechowice.pl": {
@@ -23529,6 +23534,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "tomypolacy.online": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
     "tootu.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -23622,7 +23632,7 @@
     "towarzyskizamosc.pl": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "townhill.pl": {
         "epoch": 1603411200.0,
