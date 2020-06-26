@@ -17004,6 +17004,11 @@
         "expiration_date": "27-may-2021",
         "state": "future"
     },
+    "ottokurier.com": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
     "otymsiemowi.com.pl": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
@@ -21502,7 +21507,7 @@
     "smart-m-system.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "smartoffer.site": {
         "epoch": 1615161600.0,
