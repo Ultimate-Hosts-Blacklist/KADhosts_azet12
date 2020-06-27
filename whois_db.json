@@ -10192,7 +10192,7 @@
     "higginstavern.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "highamnet.co.uk": {
         "epoch": 1607299200.0,
@@ -17764,6 +17764,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "pl-pl-fb.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "pl-pl-fb.pl": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
@@ -22080,9 +22085,9 @@
         "state": "future"
     },
     "stackspay.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "stadnina-liszkowo.pl": {
         "epoch": 1612310400.0,
@@ -22477,7 +22482,7 @@
     "supergapolska.pl": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "superhiperwakacje.com.pl": {
         "epoch": 1605312000.0,
