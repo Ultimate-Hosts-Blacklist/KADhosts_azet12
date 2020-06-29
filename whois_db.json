@@ -9144,6 +9144,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "getin-secure-bank.xyz": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "getin-secure.com.pl": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -12897,6 +12902,11 @@
     "kurierania.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "kurierfedex.pl": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "kurierinpost.info": {
@@ -20630,9 +20640,9 @@
         "state": "future"
     },
     "s-pay24.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
-        "state": "past"
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
     },
     "s1te.com.pl": {
         "epoch": 1610582400.0,
