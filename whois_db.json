@@ -3062,7 +3062,7 @@
     "brns.pl": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "broadpeakdefense.com": {
         "epoch": 1606608000.0,
@@ -17817,6 +17817,11 @@
     "pksbialapodlaska.pl": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "pl-fb.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "pl-nadaj.online": {
