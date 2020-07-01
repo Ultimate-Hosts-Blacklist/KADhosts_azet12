@@ -14509,6 +14509,11 @@
         "expiration_date": "13-may-2021",
         "state": "future"
     },
+    "medshop.pl": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
+    },
     "meesh.pl": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
@@ -14982,7 +14987,7 @@
     "modeleaut.net.pl": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "modelkompetencyjny.pl": {
         "epoch": 1595203200.0,
@@ -21080,8 +21085,8 @@
         "state": "future"
     },
     "sexopia.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "sg-architekci.pl": {
@@ -24535,8 +24540,8 @@
         "state": "future"
     },
     "urwijnagrody.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "urzad-gov.net": {
