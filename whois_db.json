@@ -13614,6 +13614,11 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "lnpost.cc": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
+    },
     "lnpostdezynfekcje.net": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -21287,7 +21292,7 @@
     "simmafia.pl": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "simplicatio.pl": {
         "epoch": 1605398400.0,
