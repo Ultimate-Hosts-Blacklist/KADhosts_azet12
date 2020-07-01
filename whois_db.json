@@ -12904,6 +12904,11 @@
         "expiration_date": "26-may-2021",
         "state": "future"
     },
+    "kurier-dhl.pl": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
     "kurier-dhl.services": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
@@ -21305,9 +21310,9 @@
         "state": "future"
     },
     "simmafia.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
-        "state": "past"
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
     },
     "simplicatio.pl": {
         "epoch": 1605398400.0,
