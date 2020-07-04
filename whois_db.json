@@ -5629,6 +5629,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "domyposoka.pl": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "doncorlito.pl": {
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
@@ -10522,7 +10527,7 @@
     "hokaoneshop.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "holachica.pl": {
         "epoch": 1594598400.0,
