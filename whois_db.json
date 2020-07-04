@@ -767,7 +767,7 @@
     "ailegro.pl.ua": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aintnothingtoit.com": {
         "epoch": 1621209600.0,
@@ -2227,6 +2227,11 @@
     "bartekzukiewicz.pl": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
+        "state": "future"
+    },
+    "bartelik-brukarstwo.pl": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "bartozziproject.com": {
@@ -20925,8 +20930,8 @@
         "state": "future"
     },
     "rovingadventures.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "rowanyne.ooo": {
