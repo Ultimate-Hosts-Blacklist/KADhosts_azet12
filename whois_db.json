@@ -737,7 +737,7 @@
     "agricoletrade.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "agronorth.pl": {
         "epoch": 1593820800.0,
@@ -6422,6 +6422,11 @@
     "easypdfcombine.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "eatandeasy.pl": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "ebd-cda.pl": {
@@ -20582,7 +20587,7 @@
     "reeboknpcii.pl": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "reebokoutlet.pl": {
         "epoch": 1622332800.0,
