@@ -9749,6 +9749,11 @@
         "expiration_date": "30-jun-2020",
         "state": "past"
     },
+    "gorisemarkets.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "goryhotel.pl": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -13057,7 +13062,7 @@
     "kredyt-na-pesel.pl": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "kredyt24.biz": {
         "epoch": 1622073600.0,
