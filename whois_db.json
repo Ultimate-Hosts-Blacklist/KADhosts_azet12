@@ -5177,7 +5177,7 @@
     "debki-klara.pl": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "debrznonoclegi.pl": {
         "epoch": 1621296000.0,
@@ -25037,6 +25037,11 @@
     "umadrego.pl": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "umarkets.io": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "unhallowed.pl": {
