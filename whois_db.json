@@ -7764,6 +7764,11 @@
         "expiration_date": "04-jul-2020",
         "state": "past"
     },
+    "fb-ads.me": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
     "fb-stalking.com": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
@@ -10600,9 +10605,9 @@
         "state": "future"
     },
     "hokaoneshop.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
-        "state": "past"
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
     },
     "holachica.pl": {
         "epoch": 1594598400.0,
@@ -24247,7 +24252,7 @@
     "tniemyceny.net": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "toascik.pl": {
         "epoch": 1600387200.0,
