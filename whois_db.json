@@ -39,6 +39,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "123movies.my.id": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "1btcnews.buzz": {
         "epoch": 1625184000.0,
         "expiration_date": "02-jul-2021",
@@ -4595,8 +4600,8 @@
         "state": "future"
     },
     "cpabuild.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "cpagrip.com": {
@@ -17729,6 +17734,11 @@
         "expiration_date": "20-mar-2021",
         "state": "future"
     },
+    "padslims.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "paifemouchoa.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
@@ -25612,6 +25622,11 @@
     "vnotrk.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "vod-box.pl": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "vod-play.pl": {
