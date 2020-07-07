@@ -7374,6 +7374,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "every-onebritish.club": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
     "evionelang9.live": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -8172,6 +8177,11 @@
     "filmy-zalukaj.pl": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "filmy3.pl": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "filmy4u.pl": {
@@ -26712,7 +26722,7 @@
     "xoreha84.bid": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "xtrak.me": {
         "epoch": 1609891200.0,
