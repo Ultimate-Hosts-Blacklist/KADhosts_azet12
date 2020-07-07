@@ -39,6 +39,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "1btcnews.buzz": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "1elt.pl": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
@@ -735,9 +740,9 @@
         "state": "future"
     },
     "agricoletrade.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "agronorth.pl": {
         "epoch": 1593820800.0,
@@ -3757,6 +3762,11 @@
     "cda-vod.pl": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "cda-zalukaj.pl": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "cda24.net": {
@@ -19355,8 +19365,8 @@
         "state": "future"
     },
     "pozycjeseksualne.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "pozyczka-minutowa.pl": {
