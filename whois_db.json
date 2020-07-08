@@ -5529,6 +5529,11 @@
         "expiration_date": "05-apr-2021",
         "state": "future"
     },
+    "dlaogrodu.biz": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
     "dlaturystow.com.pl": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -15517,7 +15522,7 @@
     "mojakopia.pl": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mojalala.com.pl": {
         "epoch": 1614988800.0,
@@ -17272,6 +17277,11 @@
     "onlinekino.pl": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "onlineogladaj.pl": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "onlinerekruter.com": {
