@@ -2759,6 +2759,11 @@
         "expiration_date": "05-sep-2021",
         "state": "future"
     },
+    "bitcointime.biz": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
     "bitcointodaynews.me": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
@@ -15447,7 +15452,7 @@
     "mobsfun.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobstarr.com": {
         "epoch": 1597190400.0,
@@ -17760,6 +17765,11 @@
         "state": "future"
     },
     "paczpocztex.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
+    "paczpocztex.online": {
         "epoch": 1625529600.0,
         "expiration_date": "06-jul-2021",
         "state": "future"
