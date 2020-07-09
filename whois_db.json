@@ -1229,6 +1229,11 @@
         "expiration_date": "07-jun-2021",
         "state": "future"
     },
+    "allegrolokalnie.ru": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
     "allegrolokalnie.su": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
@@ -11437,7 +11442,7 @@
     "inpost24.me": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "inpost24.services": {
         "epoch": 1622678400.0,
