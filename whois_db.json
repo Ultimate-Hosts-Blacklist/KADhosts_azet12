@@ -2500,8 +2500,8 @@
         "state": "future"
     },
     "bestadbid.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "bestbook-library.com": {
@@ -2532,7 +2532,7 @@
     "bestofpush.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestphoneapps.mobi": {
         "epoch": 1605830400.0,
@@ -2895,8 +2895,8 @@
         "state": "future"
     },
     "blok-gp.com.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "blubox.pl": {
@@ -5429,6 +5429,11 @@
         "expiration_date": "30-mar-2021",
         "state": "future"
     },
+    "dhl-twojkurier.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "dhl24-paczka.com": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -5737,7 +5742,7 @@
     "domtrakenski.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "domyposoka.pl": {
         "epoch": 1622246400.0,
@@ -15884,6 +15889,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "multifilmy.pl": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "muppetowecentrum.pl": {
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
@@ -18207,7 +18217,7 @@
     "pep-egypt.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "perch.pl": {
         "epoch": 1591228800.0,
@@ -22510,8 +22520,8 @@
         "state": "future"
     },
     "sojbud.com.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "sokolagd.pl": {
