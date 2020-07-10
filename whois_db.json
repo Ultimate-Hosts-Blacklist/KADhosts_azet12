@@ -10887,7 +10887,7 @@
     "hufiecchrzanow.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "humanverify.net": {
         "epoch": 1606521600.0,
@@ -11455,9 +11455,9 @@
         "state": "future"
     },
     "inpost24.me": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "inpost24.services": {
         "epoch": 1622678400.0,
@@ -17935,8 +17935,8 @@
         "state": "future"
     },
     "papierosysklep.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "papla.pl": {
@@ -20862,6 +20862,11 @@
     "region-24wydarzenia.pl": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "regionalne24-wydarzenia.pl": {
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "registrationofaccount.com": {
@@ -24542,7 +24547,7 @@
     "top-oferty.net": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "top10-konkursy.pl": {
         "epoch": 1597190400.0,
