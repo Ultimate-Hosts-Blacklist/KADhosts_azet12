@@ -2769,6 +2769,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "bitcoingemini.club": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
     "bitcoinmillionairepro.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -8632,7 +8637,7 @@
     "forwardmoniterreq.icu": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "foryourhorse.pl": {
         "epoch": 1615334400.0,
@@ -26133,6 +26138,11 @@
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
         "state": "past"
+    },
+    "weryfikacja-kosmetyczki.biz": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
     },
     "weryfikacja-weryfikacja.pl": {
         "epoch": 1620086400.0,
