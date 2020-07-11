@@ -7504,6 +7504,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "express-dhl.pl": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
     "express-inpost.com": {
         "epoch": 1622246400.0,
         "expiration_date": "29-may-2021",
@@ -20785,8 +20790,8 @@
         "state": "future"
     },
     "recznekatalogowanie.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "red-mobile.pl": {
@@ -21195,8 +21200,8 @@
         "state": "future"
     },
     "robotechcity.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "rockportpolska.pl": {
@@ -25797,7 +25802,7 @@
     "vladoblog.info": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vnotrk.com": {
         "epoch": 1597881600.0,
@@ -27522,7 +27527,7 @@
     "zmowaobywatelska.pl": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "znajdz-numer.pl": {
         "epoch": 1620086400.0,
