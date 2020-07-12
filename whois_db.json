@@ -22022,12 +22022,12 @@
     "showmeflix.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "showsplash.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "showup-tv.com.pl": {
         "epoch": 1605225600.0,
@@ -24787,6 +24787,11 @@
     "trampkitanie.pl": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "trampoliny.biz": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "trampolshop.com": {
