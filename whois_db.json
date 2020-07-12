@@ -1634,6 +1634,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "aplikacjeplay.com": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "aplsolutionsonline.com": {
         "epoch": 1670371200.0,
         "expiration_date": "07-dec-2022",
@@ -8977,7 +8982,7 @@
     "funsolo.net": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "funtoonez.com": {
         "epoch": 1625184000.0,
@@ -15967,7 +15972,7 @@
     "musika.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "muszynskiejadlo.pl": {
         "epoch": 1594857600.0,
@@ -24375,8 +24380,8 @@
         "state": "future"
     },
     "themovienation.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "thenorthfaceprzeceny.pl": {
