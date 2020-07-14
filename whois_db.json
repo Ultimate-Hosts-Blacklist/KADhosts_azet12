@@ -8694,6 +8694,11 @@
         "expiration_date": "10-mar-2021",
         "state": "future"
     },
+    "fotkinapiec.com.pl": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
     "fotkinapiec.pl": {
         "epoch": 1623283200.0,
         "expiration_date": "10-jun-2021",
@@ -17157,7 +17162,7 @@
     "odevo.pl": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "odkazinpost.net": {
         "epoch": 1618444800.0,
