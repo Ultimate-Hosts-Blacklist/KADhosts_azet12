@@ -2329,6 +2329,11 @@
         "expiration_date": "17-may-2021",
         "state": "future"
     },
+    "baseny.in": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
+    },
     "basf-polmaraton.pl": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -5112,7 +5117,7 @@
     "dampozyczke.pl": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "danangluxury.com": {
         "epoch": 1615161600.0,
