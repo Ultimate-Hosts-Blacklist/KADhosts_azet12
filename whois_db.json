@@ -21912,7 +21912,7 @@
     "scenbe.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "schington.com": {
         "epoch": 1595203200.0,
@@ -25059,6 +25059,11 @@
         "expiration_date": "12-jul-2021",
         "state": "future"
     },
+    "trampoliny.club": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "state": "future"
+    },
     "trampolshop.com": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
@@ -27417,6 +27422,11 @@
     "zaglebieliderow.pl": {
         "epoch": 1617926400.0,
         "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "zaho.pl": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "zajazdbanderoza.pl": {
