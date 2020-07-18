@@ -2639,6 +2639,11 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "bezpytan.pl": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
+    },
     "bfglasses.com": {
         "epoch": 1624320000.0,
         "expiration_date": "22-jun-2021",
@@ -12852,7 +12857,7 @@
     "ketorecipeslchf.site": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "key-mine.fun": {
         "epoch": 1609027200.0,
