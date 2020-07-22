@@ -502,7 +502,7 @@
     "adidas-collection.club": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adidas-polska.com": {
         "epoch": 1614384000.0,
@@ -3947,7 +3947,7 @@
     "cdsportadapte91.fr": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cedino.pl": {
         "epoch": 1600041600.0,
@@ -8062,6 +8062,11 @@
     "fb-ads.me": {
         "epoch": 1625097600.0,
         "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
+    "fb-business.net": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "fb-stalking.com": {
@@ -18065,8 +18070,8 @@
         "state": "future"
     },
     "oswieconykochanek.pl": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "oswietlenie-akwarium.pl": {
