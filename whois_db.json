@@ -3365,9 +3365,9 @@
         "state": "future"
     },
     "btcprofitnow.website": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
-        "state": "past"
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
     },
     "btintext.pl": {
         "epoch": 1584489600.0,
@@ -3400,8 +3400,8 @@
         "state": "future"
     },
     "buforstudio.pl": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "bulanmanabisadiam.com": {
@@ -7102,6 +7102,11 @@
     "electros.co.ua": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "elefonty.pl": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "elegrina.pl": {
@@ -28432,7 +28437,7 @@
     "zskleczany.pl": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "zsniemce.pl": {
         "epoch": 1604102400.0,
