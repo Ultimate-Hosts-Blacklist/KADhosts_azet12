@@ -1992,7 +1992,7 @@
     "atchec.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "atcofiles.com": {
         "epoch": 1601078400.0,
@@ -3522,7 +3522,7 @@
     "butyasicsdamskie.pl": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "butyasicsgellyte.pl": {
         "epoch": 1613520000.0,
@@ -5417,6 +5417,11 @@
     "davor.io": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "daxioma.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "daysandplaces.pl": {
@@ -7925,8 +7930,8 @@
         "state": "future"
     },
     "facedesign.pl": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "faceibook.pl": {
@@ -16142,7 +16147,7 @@
     "modeleaut.net.pl": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "modelkompetencyjny.pl": {
         "epoch": 1595203200.0,
