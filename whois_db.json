@@ -3562,7 +3562,7 @@
     "butydamskieoutlet.pl": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "butydrmartens.pl": {
         "epoch": 1610323200.0,
@@ -5002,6 +5002,11 @@
     "cuebar.pl": {
         "epoch": 1625270400.0,
         "expiration_date": "03-jul-2021",
+        "state": "future"
+    },
+    "cukierniasowa.com.pl": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "cultland.pl": {
@@ -23924,6 +23929,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "stocksons.com": {
+        "epoch": 1887408000.0,
+        "expiration_date": "23-oct-2029",
+        "state": "future"
+    },
     "stolarniaweronika.pl": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
@@ -26185,8 +26195,8 @@
         "state": "future"
     },
     "unident-union.pl": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "uniflorpolska.pl": {
