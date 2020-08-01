@@ -3525,9 +3525,9 @@
         "state": "future"
     },
     "butyasicsdamskie.pl": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
     },
     "butyasicsgellyte.pl": {
         "epoch": 1613520000.0,
@@ -8217,6 +8217,11 @@
     "fb-business.net": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
+    "fb-manager.net": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "fb-stalking.com": {
@@ -17332,7 +17337,7 @@
     "njb-gmbh.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nkbutysportowe.com": {
         "epoch": 1605657600.0,
