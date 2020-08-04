@@ -15885,8 +15885,8 @@
         "state": "future"
     },
     "mientayweb.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "mieszaneuczucia.pl": {
@@ -17122,7 +17122,7 @@
     "newmediaz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "newpassporn.com": {
         "epoch": 1623888000.0,
@@ -19967,6 +19967,11 @@
     "polonialaziska.pl": {
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
+        "state": "future"
+    },
+    "polska-anketierowanie.site": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "polska-gazeta-dnia.pl": {
