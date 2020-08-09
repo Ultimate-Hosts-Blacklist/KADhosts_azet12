@@ -17177,7 +17177,7 @@
     "neurorehabtraining.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "new-message.co": {
         "epoch": 1604016000.0,
@@ -24214,6 +24214,11 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "strefa-vod.pl": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "state": "future"
+    },
     "strefagotyku.pl": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -26937,6 +26942,11 @@
     "vod-plus.pl": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "vod.plus": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "vod24.pl": {
