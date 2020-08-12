@@ -1632,7 +1632,7 @@
     "apartahotelfamilyhouse.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "apartamentykochanowskiego.pl": {
         "epoch": 1622246400.0,
@@ -1662,6 +1662,11 @@
     "aparthema.org.pl": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "apexbillingservices.co": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "apkplayonline.com": {
@@ -13960,8 +13965,8 @@
         "state": "future"
     },
     "krzycztrybson.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "krzyjahu.pl": {
