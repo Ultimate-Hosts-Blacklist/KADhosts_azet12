@@ -2559,6 +2559,11 @@
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
+    "bentyluses.com": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
+    },
     "beproactive.com.pl": {
         "epoch": 1626652800.0,
         "expiration_date": "19-jul-2021",
@@ -3245,8 +3250,8 @@
         "state": "future"
     },
     "boomrent.pl": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "bootstraplugin.com": {
@@ -6239,6 +6244,11 @@
         "expiration_date": "04-aug-2021",
         "state": "future"
     },
+    "dpd-parcelsecure.com": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
     "dpdoplata.org": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
@@ -7987,7 +7997,7 @@
     "fabryka-mebli.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "fabryka-nagrod.com": {
         "epoch": 1603411200.0,
@@ -11602,6 +11612,11 @@
     "id-appie.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "id95972.net": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "idea-bank.xyz": {
