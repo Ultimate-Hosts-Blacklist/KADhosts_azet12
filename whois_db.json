@@ -8735,9 +8735,9 @@
         "state": "future"
     },
     "filmy4u.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "filmyfilmy.pl": {
         "epoch": 1616284800.0,
@@ -19487,6 +19487,11 @@
     "pl-pl-fb.pl": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "pl-postkod.com": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "pl-pulsbiz.net": {
