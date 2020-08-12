@@ -1157,7 +1157,7 @@
     "alldc.pw": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "alle-perfumy.pl": {
         "epoch": 1616457600.0,
@@ -3989,6 +3989,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "ccswpsvc.com": {
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "state": "future"
+    },
     "cda-bez-limitu.pl": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -6107,7 +6112,7 @@
     "doski.by": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "doslav.pl": {
         "epoch": 1622073600.0,
@@ -16315,8 +16320,8 @@
         "state": "future"
     },
     "mobstarr.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1691798400.0,
+        "expiration_date": "12-aug-2023",
         "state": "future"
     },
     "mobstarter.com": {
