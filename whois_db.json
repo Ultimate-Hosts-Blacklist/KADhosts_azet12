@@ -17512,7 +17512,7 @@
     "nikeskleppolska.pl": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nikewholesale.pl": {
         "epoch": 1597190400.0,
@@ -24002,6 +24002,11 @@
     "spotlessweb.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "spotted-wroclaw-471.pl": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "spplodz.pl": {
