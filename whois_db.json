@@ -17689,6 +17689,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "ninjavpn.xyz": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
     "nipoflex.com.pl": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -17977,7 +17982,7 @@
     "nyctrk.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nympropiedades.cl": {
         "epoch": 1599350400.0,
