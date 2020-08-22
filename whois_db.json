@@ -12580,9 +12580,9 @@
         "state": "future"
     },
     "iptivicini.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "ipzd.pl": {
         "epoch": 1628467200.0,
@@ -14292,7 +14292,7 @@
     "kszozkosz.pl": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ktdw.pl": {
         "epoch": 1617926400.0,
@@ -25629,6 +25629,11 @@
         "expiration_date": "21-aug-2021",
         "state": "future"
     },
+    "teckinharmux11.live": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
+    },
     "teckinharmux12.live": {
         "epoch": 1629504000.0,
         "expiration_date": "21-aug-2021",
@@ -25670,6 +25675,11 @@
         "state": "future"
     },
     "teckinharmux5.live": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
+    },
+    "teckinharmux6.live": {
         "epoch": 1629504000.0,
         "expiration_date": "21-aug-2021",
         "state": "future"
@@ -27730,6 +27740,16 @@
         "state": "future"
     },
     "waarschijnlijk15.live": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
+    "waarschijnlijk2.live": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
+    "waarschijnlijk3.live": {
         "epoch": 1628812800.0,
         "expiration_date": "13-aug-2021",
         "state": "future"
