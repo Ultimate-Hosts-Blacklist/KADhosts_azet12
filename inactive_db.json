@@ -1340,8 +1340,8 @@
         "dworzecfakt.eu": {
             "included_at_epoch": 1588296842.0,
             "included_at_iso": "2020-05-01T01:34:02",
-            "last_retested_at_epoch": 1597944472.510506,
-            "last_retested_at_iso": "2020-08-20T17:27:52.510506",
+            "last_retested_at_epoch": 1598061220.15671,
+            "last_retested_at_iso": "2020-08-22T01:53:40.156710",
             "status": "INACTIVE"
         },
         "dworzecfakt.online": {
@@ -1606,8 +1606,8 @@
         "emonitoring.poczta-polska2.pl": {
             "included_at_epoch": 1593275516.539914,
             "included_at_iso": "2020-06-27T16:31:56.539914",
-            "last_retested_at_epoch": 1597972845.75472,
-            "last_retested_at_iso": "2020-08-21T01:20:45.754720",
+            "last_retested_at_epoch": 1598061352.939427,
+            "last_retested_at_iso": "2020-08-22T01:55:52.939427",
             "status": "INACTIVE"
         },
         "emonitoring.poczta-polska8.pl": {
@@ -1865,8 +1865,8 @@
         "faktynews-24.eu": {
             "included_at_epoch": 1595432361.70422,
             "included_at_iso": "2020-07-22T15:39:21.704220",
-            "last_retested_at_epoch": 1597956152.805899,
-            "last_retested_at_iso": "2020-08-20T20:42:32.805899",
+            "last_retested_at_epoch": 1598061162.381535,
+            "last_retested_at_iso": "2020-08-22T01:52:42.381535",
             "status": "INACTIVE"
         },
         "faktyonline48.eu": {
@@ -2012,8 +2012,8 @@
         "footoografie-pobieralnia.eu": {
             "included_at_epoch": 1593561814.678541,
             "included_at_iso": "2020-07-01T00:03:34.678541",
-            "last_retested_at_epoch": 1597915362.168693,
-            "last_retested_at_iso": "2020-08-20T09:22:42.168693",
+            "last_retested_at_epoch": 1598061198.360732,
+            "last_retested_at_iso": "2020-08-22T01:53:18.360732",
             "status": "INACTIVE"
         },
         "fortunatefellow.xyz": {
@@ -2140,6 +2140,13 @@
             "included_at_iso": "2020-05-28T15:50:20.890472",
             "last_retested_at_epoch": 1590780057.485848,
             "last_retested_at_iso": "2020-05-29T19:20:57.485848",
+            "status": "INACTIVE"
+        },
+        "gazetasasiedzka.eu": {
+            "included_at_epoch": 1598061438.97139,
+            "included_at_iso": "2020-08-22T01:57:18.971390",
+            "last_retested_at_epoch": 1598061438.97139,
+            "last_retested_at_iso": "2020-08-22T01:57:18.971390",
             "status": "INACTIVE"
         },
         "gdansk-fakt24.pl": {
@@ -2516,8 +2523,8 @@
         "hotnews24h.pl": {
             "included_at_epoch": 1583135179.0,
             "included_at_iso": "2020-03-02T07:46:19",
-            "last_retested_at_epoch": 1583135179.0,
-            "last_retested_at_iso": "2020-03-02T07:46:19",
+            "last_retested_at_epoch": 1598060964.099132,
+            "last_retested_at_iso": "2020-08-22T01:49:24.099132",
             "status": "INACTIVE"
         },
         "hrekcustomer.icu": {
@@ -2782,8 +2789,8 @@
         "inpost.kodyodbioru.app": {
             "included_at_epoch": 1597823194.568991,
             "included_at_iso": "2020-08-19T07:46:34.568991",
-            "last_retested_at_epoch": 1597932459.365826,
-            "last_retested_at_iso": "2020-08-20T14:07:39.365826",
+            "last_retested_at_epoch": 1598060612.046147,
+            "last_retested_at_iso": "2020-08-22T01:43:32.046147",
             "status": "INACTIVE"
         },
         "inpost.kodyodbioru.net": {
@@ -2894,8 +2901,8 @@
         "iq1.eu": {
             "included_at_epoch": 1588467043.0,
             "included_at_iso": "2020-05-03T00:50:43",
-            "last_retested_at_epoch": 1597937829.094721,
-            "last_retested_at_iso": "2020-08-20T15:37:09.094721",
+            "last_retested_at_epoch": 1598060870.384713,
+            "last_retested_at_iso": "2020-08-22T01:47:50.384713",
             "status": "INACTIVE"
         },
         "itstime.space": {
@@ -2950,8 +2957,8 @@
         "januszp.stronazen.pl": {
             "included_at_epoch": 1589400666.234649,
             "included_at_iso": "2020-05-13T20:11:06.234649",
-            "last_retested_at_epoch": 1597972978.607758,
-            "last_retested_at_iso": "2020-08-21T01:22:58.607758",
+            "last_retested_at_epoch": 1598061283.343045,
+            "last_retested_at_iso": "2020-08-22T01:54:43.343045",
             "status": "INACTIVE"
         },
         "jont.pl": {
@@ -3671,8 +3678,8 @@
         "megachiny.eu": {
             "included_at_epoch": 1595214653.855105,
             "included_at_iso": "2020-07-20T03:10:53.855105",
-            "last_retested_at_epoch": 1597950759.08042,
-            "last_retested_at_iso": "2020-08-20T19:12:39.080420",
+            "last_retested_at_epoch": 1598061416.89326,
+            "last_retested_at_iso": "2020-08-22T01:56:56.893260",
             "status": "INACTIVE"
         },
         "megamieszkania.pl": {
@@ -3727,8 +3734,8 @@
         "miejskiportal.eu": {
             "included_at_epoch": 1597892636.396047,
             "included_at_iso": "2020-08-20T03:03:56.396047",
-            "last_retested_at_epoch": 1597892636.396047,
-            "last_retested_at_iso": "2020-08-20T03:03:56.396047",
+            "last_retested_at_epoch": 1598060944.33405,
+            "last_retested_at_iso": "2020-08-22T01:49:04.334050",
             "status": "INACTIVE"
         },
         "milenium.site": {
@@ -4791,8 +4798,8 @@
         "pokemon2k16go.blogspot.com": {
             "included_at_epoch": 1588420203.0,
             "included_at_iso": "2020-05-02T11:50:03",
-            "last_retested_at_epoch": 1597950179.814956,
-            "last_retested_at_iso": "2020-08-20T19:02:59.814956",
+            "last_retested_at_epoch": 1598061285.081875,
+            "last_retested_at_iso": "2020-08-22T01:54:45.081875",
             "status": "INACTIVE"
         },
         "pokojewkolobrzegu.com.pl": {
@@ -5344,8 +5351,8 @@
         "rossmann-rozdawanie.eu": {
             "included_at_epoch": 1591870739.780678,
             "included_at_iso": "2020-06-11T10:18:59.780678",
-            "last_retested_at_epoch": 1597937897.287541,
-            "last_retested_at_iso": "2020-08-20T15:38:17.287541",
+            "last_retested_at_epoch": 1598060659.454078,
+            "last_retested_at_iso": "2020-08-22T01:44:19.454078",
             "status": "INACTIVE"
         },
         "roswell47.pl": {
@@ -6688,8 +6695,8 @@
         "ww.paczktups.com": {
             "included_at_epoch": 1597973199.941469,
             "included_at_iso": "2020-08-21T01:26:39.941469",
-            "last_retested_at_epoch": 1597973199.941469,
-            "last_retested_at_iso": "2020-08-21T01:26:39.941469",
+            "last_retested_at_epoch": 1598060971.688896,
+            "last_retested_at_iso": "2020-08-22T01:49:31.688896",
             "status": "INACTIVE"
         },
         "ww7.openwrt.com": {
@@ -6702,8 +6709,8 @@
         "wwa-informacje.co.pl": {
             "included_at_epoch": 1593330748.900912,
             "included_at_iso": "2020-06-28T07:52:28.900912",
-            "last_retested_at_epoch": 1597767713.26659,
-            "last_retested_at_iso": "2020-08-18T16:21:53.266590",
+            "last_retested_at_epoch": 1598061361.095041,
+            "last_retested_at_iso": "2020-08-22T01:56:01.095041",
             "status": "INACTIVE"
         },
         "www-apple-com-anti-virus-systems.virus-removals.com": {
@@ -7325,8 +7332,8 @@
         "www.adidasterrex.pl": {
             "included_at_epoch": 1597744950.519758,
             "included_at_iso": "2020-08-18T10:02:30.519758",
-            "last_retested_at_epoch": 1597885926.461127,
-            "last_retested_at_iso": "2020-08-20T01:12:06.461127",
+            "last_retested_at_epoch": 1598060783.796538,
+            "last_retested_at_iso": "2020-08-22T01:46:23.796538",
             "status": "INACTIVE"
         },
         "www.adidastrampkidamskie.pl": {
@@ -7423,8 +7430,8 @@
         "www.adsheads.go2affise.com": {
             "included_at_epoch": 1588429188.0,
             "included_at_iso": "2020-05-02T14:19:48",
-            "last_retested_at_epoch": 1597845776.973411,
-            "last_retested_at_iso": "2020-08-19T14:02:56.973411",
+            "last_retested_at_epoch": 1598060767.272957,
+            "last_retested_at_iso": "2020-08-22T01:46:07.272957",
             "status": "INACTIVE"
         },
         "www.adupathrun.pl": {
@@ -8214,8 +8221,8 @@
         "www.anitkakurier.com": {
             "included_at_epoch": 1588372506.0,
             "included_at_iso": "2020-05-01T22:35:06",
-            "last_retested_at_epoch": 1597607585.940821,
-            "last_retested_at_iso": "2020-08-16T19:53:05.940821",
+            "last_retested_at_epoch": 1598061207.277182,
+            "last_retested_at_iso": "2020-08-22T01:53:27.277182",
             "status": "INACTIVE"
         },
         "www.ankiety-konsumenckie.pl": {
@@ -8963,8 +8970,8 @@
         "www.basen.in": {
             "included_at_epoch": 1597944466.247762,
             "included_at_iso": "2020-08-20T17:27:46.247762",
-            "last_retested_at_epoch": 1597944466.247762,
-            "last_retested_at_iso": "2020-08-20T17:27:46.247762",
+            "last_retested_at_epoch": 1598060696.724105,
+            "last_retested_at_iso": "2020-08-22T01:44:56.724105",
             "status": "INACTIVE"
         },
         "www.baseny.in": {
@@ -9754,8 +9761,8 @@
         "www.browsefeatureaasn31254.buzz": {
             "included_at_epoch": 1590280718.592106,
             "included_at_iso": "2020-05-24T00:38:38.592106",
-            "last_retested_at_epoch": 1597967915.685584,
-            "last_retested_at_iso": "2020-08-20T23:58:35.685584",
+            "last_retested_at_epoch": 1598060697.454437,
+            "last_retested_at_iso": "2020-08-22T01:44:57.454437",
             "status": "INACTIVE"
         },
         "www.brzuchfit.pl": {
@@ -10076,8 +10083,8 @@
         "www.buzz.mobiapp-games.com": {
             "included_at_epoch": 1588466649.0,
             "included_at_iso": "2020-05-03T00:44:09",
-            "last_retested_at_epoch": 1597845557.799345,
-            "last_retested_at_iso": "2020-08-19T13:59:17.799345",
+            "last_retested_at_epoch": 1598060941.841853,
+            "last_retested_at_iso": "2020-08-22T01:49:01.841853",
             "status": "INACTIVE"
         },
         "www.bxugac.live": {
@@ -11532,8 +11539,8 @@
         "www.dnirownosci.pl": {
             "included_at_epoch": 1595618039.805582,
             "included_at_iso": "2020-07-24T19:13:59.805582",
-            "last_retested_at_epoch": 1597968457.249428,
-            "last_retested_at_iso": "2020-08-21T00:07:37.249428",
+            "last_retested_at_epoch": 1598061185.801552,
+            "last_retested_at_iso": "2020-08-22T01:53:05.801552",
             "status": "INACTIVE"
         },
         "www.dobieraniefryzury.pl": {
@@ -12113,8 +12120,8 @@
         "www.dworzecfakt.eu": {
             "included_at_epoch": 1588296842.0,
             "included_at_iso": "2020-05-01T01:34:02",
-            "last_retested_at_epoch": 1597944472.502589,
-            "last_retested_at_iso": "2020-08-20T17:27:52.502589",
+            "last_retested_at_epoch": 1598061220.155739,
+            "last_retested_at_iso": "2020-08-22T01:53:40.155739",
             "status": "INACTIVE"
         },
         "www.dworzecfakt.online": {
@@ -12932,8 +12939,8 @@
         "www.elinladpati.tk": {
             "included_at_epoch": 1590633757.309664,
             "included_at_iso": "2020-05-28T02:42:37.309664",
-            "last_retested_at_epoch": 1597973494.596261,
-            "last_retested_at_iso": "2020-08-21T01:31:34.596261",
+            "last_retested_at_epoch": 1598061336.747806,
+            "last_retested_at_iso": "2020-08-22T01:55:36.747806",
             "status": "INACTIVE"
         },
         "www.elkowcy.pl": {
@@ -13370,6 +13377,34 @@
             "last_retested_at_iso": "2020-08-21T16:38:55.187919",
             "status": "INACTIVE"
         },
+        "www.esoterisch1.live": {
+            "included_at_epoch": 1598061189.156659,
+            "included_at_iso": "2020-08-22T01:53:09.156659",
+            "last_retested_at_epoch": 1598061189.156659,
+            "last_retested_at_iso": "2020-08-22T01:53:09.156659",
+            "status": "INACTIVE"
+        },
+        "www.esoterisch12.live": {
+            "included_at_epoch": 1598061188.129443,
+            "included_at_iso": "2020-08-22T01:53:08.129443",
+            "last_retested_at_epoch": 1598061188.129443,
+            "last_retested_at_iso": "2020-08-22T01:53:08.129443",
+            "status": "INACTIVE"
+        },
+        "www.esoterisch2.live": {
+            "included_at_epoch": 1598061074.646562,
+            "included_at_iso": "2020-08-22T01:51:14.646562",
+            "last_retested_at_epoch": 1598061074.646562,
+            "last_retested_at_iso": "2020-08-22T01:51:14.646562",
+            "status": "INACTIVE"
+        },
+        "www.esoterisch6.live": {
+            "included_at_epoch": 1598060666.845049,
+            "included_at_iso": "2020-08-22T01:44:26.845049",
+            "last_retested_at_epoch": 1598060666.845049,
+            "last_retested_at_iso": "2020-08-22T01:44:26.845049",
+            "status": "INACTIVE"
+        },
         "www.esoterisch7.live": {
             "included_at_epoch": 1598039306.034901,
             "included_at_iso": "2020-08-21T19:48:26.034901",
@@ -13387,8 +13422,8 @@
         "www.espaylink.net": {
             "included_at_epoch": 1588402358.0,
             "included_at_iso": "2020-05-02T06:52:38",
-            "last_retested_at_epoch": 1597868880.833942,
-            "last_retested_at_iso": "2020-08-19T20:28:00.833942",
+            "last_retested_at_epoch": 1598061096.133171,
+            "last_retested_at_iso": "2020-08-22T01:51:36.133171",
             "status": "INACTIVE"
         },
         "www.etamina.pl": {
@@ -13590,8 +13625,8 @@
         "www.expoindex.pl": {
             "included_at_epoch": 1595603648.329556,
             "included_at_iso": "2020-07-24T15:14:08.329556",
-            "last_retested_at_epoch": 1597972869.745174,
-            "last_retested_at_iso": "2020-08-21T01:21:09.745174",
+            "last_retested_at_epoch": 1598061038.740208,
+            "last_retested_at_iso": "2020-08-22T01:50:38.740208",
             "status": "INACTIVE"
         },
         "www.exprespluta.pl": {
@@ -13828,8 +13863,8 @@
         "www.faktury3941.org": {
             "included_at_epoch": 1588301599.0,
             "included_at_iso": "2020-05-01T02:53:19",
-            "last_retested_at_epoch": 1597973436.404325,
-            "last_retested_at_iso": "2020-08-21T01:30:36.404325",
+            "last_retested_at_epoch": 1598060941.536696,
+            "last_retested_at_iso": "2020-08-22T01:49:01.536696",
             "status": "INACTIVE"
         },
         "www.fakty-alert.eu": {
@@ -13933,8 +13968,8 @@
         "www.faktygwalt.com.pl": {
             "included_at_epoch": 1589308194.512917,
             "included_at_iso": "2020-05-12T18:29:54.512917",
-            "last_retested_at_epoch": 1597915640.457558,
-            "last_retested_at_iso": "2020-08-20T09:27:20.457558",
+            "last_retested_at_epoch": 1598060629.591716,
+            "last_retested_at_iso": "2020-08-22T01:43:49.591716",
             "status": "INACTIVE"
         },
         "www.faktygwalt.net.pl": {
@@ -13961,8 +13996,8 @@
         "www.faktynews-24.eu": {
             "included_at_epoch": 1595432361.703278,
             "included_at_iso": "2020-07-22T15:39:21.703278",
-            "last_retested_at_epoch": 1597956152.757435,
-            "last_retested_at_iso": "2020-08-20T20:42:32.757435",
+            "last_retested_at_epoch": 1598061162.378414,
+            "last_retested_at_iso": "2020-08-22T01:52:42.378414",
             "status": "INACTIVE"
         },
         "www.faktyonline48.eu": {
@@ -14416,8 +14451,8 @@
         "www.fomaska.com": {
             "included_at_epoch": 1588388114.0,
             "included_at_iso": "2020-05-02T02:55:14",
-            "last_retested_at_epoch": 1597956534.230818,
-            "last_retested_at_iso": "2020-08-20T20:48:54.230818",
+            "last_retested_at_epoch": 1598060584.232903,
+            "last_retested_at_iso": "2020-08-22T01:43:04.232903",
             "status": "INACTIVE"
         },
         "www.food-voucher.com": {
@@ -14437,8 +14472,8 @@
         "www.footoografie-pobieralnia.eu": {
             "included_at_epoch": 1593561815.064169,
             "included_at_iso": "2020-07-01T00:03:35.064169",
-            "last_retested_at_epoch": 1597915362.252993,
-            "last_retested_at_iso": "2020-08-20T09:22:42.252993",
+            "last_retested_at_epoch": 1598061198.359568,
+            "last_retested_at_iso": "2020-08-22T01:53:18.359568",
             "status": "INACTIVE"
         },
         "www.foresightwielkopolska.pl": {
@@ -14479,8 +14514,8 @@
         "www.fortunatefellow.xyz": {
             "included_at_epoch": 1588565900.374399,
             "included_at_iso": "2020-05-04T04:18:20.374399",
-            "last_retested_at_epoch": 1597967687.492734,
-            "last_retested_at_iso": "2020-08-20T23:54:47.492734",
+            "last_retested_at_epoch": 1598060715.07732,
+            "last_retested_at_iso": "2020-08-22T01:45:15.077320",
             "status": "INACTIVE"
         },
         "www.fortunatetime.xyz": {
@@ -14682,8 +14717,8 @@
         "www.free.propdfconverter.com": {
             "included_at_epoch": 1588372832.0,
             "included_at_iso": "2020-05-01T22:40:32",
-            "last_retested_at_epoch": 1597916235.636292,
-            "last_retested_at_iso": "2020-08-20T09:37:15.636292",
+            "last_retested_at_epoch": 1598060858.473935,
+            "last_retested_at_iso": "2020-08-22T01:47:38.473935",
             "status": "INACTIVE"
         },
         "www.freefollower.eu": {
@@ -14724,8 +14759,8 @@
         "www.fsgliwice.pl": {
             "included_at_epoch": 1596422691.782296,
             "included_at_iso": "2020-08-03T02:44:51.782296",
-            "last_retested_at_epoch": 1597822882.852172,
-            "last_retested_at_iso": "2020-08-19T07:41:22.852172",
+            "last_retested_at_epoch": 1598061442.970989,
+            "last_retested_at_iso": "2020-08-22T01:57:22.970989",
             "status": "INACTIVE"
         },
         "www.fundacjapapaya.pl": {
@@ -14927,8 +14962,8 @@
         "www.garternal13.live": {
             "included_at_epoch": 1590759352.704729,
             "included_at_iso": "2020-05-29T13:35:52.704729",
-            "last_retested_at_epoch": 1597915584.216506,
-            "last_retested_at_iso": "2020-08-20T09:26:24.216506",
+            "last_retested_at_epoch": 1598061088.19732,
+            "last_retested_at_iso": "2020-08-22T01:51:28.197320",
             "status": "INACTIVE"
         },
         "www.garternal14.live": {
@@ -14997,8 +15032,8 @@
         "www.garternal4.live": {
             "included_at_epoch": 1590780793.255987,
             "included_at_iso": "2020-05-29T19:33:13.255987",
-            "last_retested_at_epoch": 1597805082.453245,
-            "last_retested_at_iso": "2020-08-19T02:44:42.453245",
+            "last_retested_at_epoch": 1598061332.003551,
+            "last_retested_at_iso": "2020-08-22T01:55:32.003551",
             "status": "INACTIVE"
         },
         "www.garternal5.live": {
@@ -15113,6 +15148,13 @@
             "last_retested_at_iso": "2020-08-21T12:11:16.317559",
             "status": "INACTIVE"
         },
+        "www.gazetasasiedzka.eu": {
+            "included_at_epoch": 1598061438.9725,
+            "included_at_iso": "2020-08-22T01:57:18.972500",
+            "last_retested_at_epoch": 1598061438.9725,
+            "last_retested_at_iso": "2020-08-22T01:57:18.972500",
+            "status": "INACTIVE"
+        },
         "www.gazetowo.pl": {
             "included_at_epoch": 1588983619.342186,
             "included_at_iso": "2020-05-09T00:20:19.342186",
@@ -15179,8 +15221,8 @@
         "www.generuj-kod.me": {
             "included_at_epoch": 1596601629.690581,
             "included_at_iso": "2020-08-05T04:27:09.690581",
-            "last_retested_at_epoch": 1597962653.37585,
-            "last_retested_at_iso": "2020-08-20T22:30:53.375850",
+            "last_retested_at_epoch": 1598060603.488052,
+            "last_retested_at_iso": "2020-08-22T01:43:23.488052",
             "status": "INACTIVE"
         },
         "www.genfotir.com": {
@@ -16124,8 +16166,8 @@
         "www.headregret10.live": {
             "included_at_epoch": 1590787839.099015,
             "included_at_iso": "2020-05-29T21:30:39.099015",
-            "last_retested_at_epoch": 1597967844.571097,
-            "last_retested_at_iso": "2020-08-20T23:57:24.571097",
+            "last_retested_at_epoch": 1598061398.872939,
+            "last_retested_at_iso": "2020-08-22T01:56:38.872939",
             "status": "INACTIVE"
         },
         "www.headregret11.live": {
@@ -16516,8 +16558,8 @@
         "www.hotnews24h.pl": {
             "included_at_epoch": 1588411435.0,
             "included_at_iso": "2020-05-02T09:23:55",
-            "last_retested_at_epoch": 1597921277.612159,
-            "last_retested_at_iso": "2020-08-20T11:01:17.612159",
+            "last_retested_at_epoch": 1598060965.22378,
+            "last_retested_at_iso": "2020-08-22T01:49:25.223780",
             "status": "INACTIVE"
         },
         "www.hp.myway.com": {
@@ -17328,8 +17370,8 @@
         "www.inpost.tech": {
             "included_at_epoch": 1593771312.435292,
             "included_at_iso": "2020-07-03T10:15:12.435292",
-            "last_retested_at_epoch": 1597880333.110767,
-            "last_retested_at_iso": "2020-08-19T23:38:53.110767",
+            "last_retested_at_epoch": 1598060857.212135,
+            "last_retested_at_iso": "2020-08-22T01:47:37.212135",
             "status": "INACTIVE"
         },
         "www.inpost.us": {
@@ -17643,8 +17685,8 @@
         "www.ippko.website": {
             "included_at_epoch": 1594173360.424904,
             "included_at_iso": "2020-07-08T01:56:00.424904",
-            "last_retested_at_epoch": 1597921730.325357,
-            "last_retested_at_iso": "2020-08-20T11:08:50.325357",
+            "last_retested_at_epoch": 1598061099.523597,
+            "last_retested_at_iso": "2020-08-22T01:51:39.523597",
             "status": "INACTIVE"
         },
         "www.iptivicini.com": {
@@ -17657,8 +17699,8 @@
         "www.iq1.eu": {
             "included_at_epoch": 1588467042.0,
             "included_at_iso": "2020-05-03T00:50:42",
-            "last_retested_at_epoch": 1597937828.291279,
-            "last_retested_at_iso": "2020-08-20T15:37:08.291279",
+            "last_retested_at_epoch": 1598060870.383845,
+            "last_retested_at_iso": "2020-08-22T01:47:50.383845",
             "status": "INACTIVE"
         },
         "www.isru.pl": {
@@ -17678,8 +17720,8 @@
         "www.istrefa.net": {
             "included_at_epoch": 1588467048.0,
             "included_at_iso": "2020-05-03T00:50:48",
-            "last_retested_at_epoch": 1597944512.070549,
-            "last_retested_at_iso": "2020-08-20T17:28:32.070549",
+            "last_retested_at_epoch": 1598061119.711088,
+            "last_retested_at_iso": "2020-08-22T01:51:59.711088",
             "status": "INACTIVE"
         },
         "www.italianonfiction.pl": {
@@ -17727,8 +17769,8 @@
         "www.itsbanana5.live": {
             "included_at_epoch": 1593718380.187259,
             "included_at_iso": "2020-07-02T19:33:00.187259",
-            "last_retested_at_epoch": 1597944518.80357,
-            "last_retested_at_iso": "2020-08-20T17:28:38.803570",
+            "last_retested_at_epoch": 1598061242.509199,
+            "last_retested_at_iso": "2020-08-22T01:54:02.509199",
             "status": "INACTIVE"
         },
         "www.itspree.pl": {
@@ -18644,8 +18686,8 @@
         "www.krainakuhailana.pl": {
             "included_at_epoch": 1588382228.0,
             "included_at_iso": "2020-05-02T01:17:08",
-            "last_retested_at_epoch": 1597899113.963954,
-            "last_retested_at_iso": "2020-08-20T04:51:53.963954",
+            "last_retested_at_epoch": 1598060959.03234,
+            "last_retested_at_iso": "2020-08-22T01:49:19.032340",
             "status": "INACTIVE"
         },
         "www.krajowe.098.pl": {
@@ -19211,8 +19253,8 @@
         "www.lifefordatings15.live": {
             "included_at_epoch": 1591608265.829265,
             "included_at_iso": "2020-06-08T09:24:25.829265",
-            "last_retested_at_epoch": 1597950277.542453,
-            "last_retested_at_iso": "2020-08-20T19:04:37.542453",
+            "last_retested_at_epoch": 1598060793.903804,
+            "last_retested_at_iso": "2020-08-22T01:46:33.903804",
             "status": "INACTIVE"
         },
         "www.lifefordatings2.live": {
@@ -19393,8 +19435,8 @@
         "www.loan.arrow-finance.pl": {
             "included_at_epoch": 1588393113.0,
             "included_at_iso": "2020-05-02T04:18:33",
-            "last_retested_at_epoch": 1597927390.893318,
-            "last_retested_at_iso": "2020-08-20T12:43:10.893318",
+            "last_retested_at_epoch": 1598060781.465121,
+            "last_retested_at_iso": "2020-08-22T01:46:21.465121",
             "status": "INACTIVE"
         },
         "www.login-paribas-planet.info": {
@@ -19925,8 +19967,8 @@
         "www.marnotrawny-kosciol.pl": {
             "included_at_epoch": 1595917274.469405,
             "included_at_iso": "2020-07-28T06:21:14.469405",
-            "last_retested_at_epoch": 1597920999.956697,
-            "last_retested_at_iso": "2020-08-20T10:56:39.956697",
+            "last_retested_at_epoch": 1598061003.675303,
+            "last_retested_at_iso": "2020-08-22T01:50:03.675303",
             "status": "INACTIVE"
         },
         "www.marsonic.pl": {
@@ -20016,8 +20058,8 @@
         "www.mbtbuty.pl": {
             "included_at_epoch": 1597102172.551364,
             "included_at_iso": "2020-08-10T23:29:32.551364",
-            "last_retested_at_epoch": 1597972951.178354,
-            "last_retested_at_iso": "2020-08-21T01:22:31.178354",
+            "last_retested_at_epoch": 1598060569.594469,
+            "last_retested_at_iso": "2020-08-22T01:42:49.594469",
             "status": "INACTIVE"
         },
         "www.mcl-nieruchomosci.pl": {
@@ -20121,8 +20163,8 @@
         "www.megachiny.eu": {
             "included_at_epoch": 1595214653.71092,
             "included_at_iso": "2020-07-20T03:10:53.710920",
-            "last_retested_at_epoch": 1597950759.118605,
-            "last_retested_at_iso": "2020-08-20T19:12:39.118605",
+            "last_retested_at_epoch": 1598061416.910478,
+            "last_retested_at_iso": "2020-08-22T01:56:56.910478",
             "status": "INACTIVE"
         },
         "www.megacloudz.net": {
@@ -20240,8 +20282,8 @@
         "www.miejskiportal.eu": {
             "included_at_epoch": 1597892636.395112,
             "included_at_iso": "2020-08-20T03:03:56.395112",
-            "last_retested_at_epoch": 1597892636.395112,
-            "last_retested_at_iso": "2020-08-20T03:03:56.395112",
+            "last_retested_at_epoch": 1598060944.092564,
+            "last_retested_at_iso": "2020-08-22T01:49:04.092564",
             "status": "INACTIVE"
         },
         "www.mieszkanie-bochnia.pl": {
@@ -20877,8 +20919,8 @@
         "www.namsi5.com": {
             "included_at_epoch": 1590145798.191819,
             "included_at_iso": "2020-05-22T11:09:58.191819",
-            "last_retested_at_epoch": 1597938113.060403,
-            "last_retested_at_iso": "2020-08-20T15:41:53.060403",
+            "last_retested_at_epoch": 1598061117.129848,
+            "last_retested_at_iso": "2020-08-22T01:51:57.129848",
             "status": "INACTIVE"
         },
         "www.naporost.pl": {
@@ -21059,8 +21101,8 @@
         "www.navi-tm.com": {
             "included_at_epoch": 1591627742.087076,
             "included_at_iso": "2020-06-08T14:49:02.087076",
-            "last_retested_at_epoch": 1597869003.024209,
-            "last_retested_at_iso": "2020-08-19T20:30:03.024209",
+            "last_retested_at_epoch": 1598060987.12217,
+            "last_retested_at_iso": "2020-08-22T01:49:47.122170",
             "status": "INACTIVE"
         },
         "www.nazywo.h2g.pl": {
@@ -21339,8 +21381,8 @@
         "www.niebieskiraj.pl": {
             "included_at_epoch": 1597950651.709947,
             "included_at_iso": "2020-08-20T19:10:51.709947",
-            "last_retested_at_epoch": 1597950651.709947,
-            "last_retested_at_iso": "2020-08-20T19:10:51.709947",
+            "last_retested_at_epoch": 1598060829.011546,
+            "last_retested_at_iso": "2020-08-22T01:47:09.011546",
             "status": "INACTIVE"
         },
         "www.nielukrowana.pl": {
@@ -21766,8 +21808,8 @@
         "www.ogladaj-foteczki.pusiaweb.com": {
             "included_at_epoch": 1588296559.0,
             "included_at_iso": "2020-05-01T01:29:19",
-            "last_retested_at_epoch": 1597811522.899997,
-            "last_retested_at_iso": "2020-08-19T04:32:02.899997",
+            "last_retested_at_epoch": 1598061395.771155,
+            "last_retested_at_iso": "2020-08-22T01:56:35.771155",
             "status": "INACTIVE"
         },
         "www.ogladajfilmy.pl": {
@@ -22473,8 +22515,8 @@
         "www.paczpocztex.com": {
             "included_at_epoch": 1594132554.328939,
             "included_at_iso": "2020-07-07T14:35:54.328939",
-            "last_retested_at_epoch": 1597973374.382575,
-            "last_retested_at_iso": "2020-08-21T01:29:34.382575",
+            "last_retested_at_epoch": 1598060618.264701,
+            "last_retested_at_iso": "2020-08-22T01:43:38.264701",
             "status": "INACTIVE"
         },
         "www.paczpocztex.online": {
@@ -23229,8 +23271,8 @@
         "www.playapk24.com": {
             "included_at_epoch": 1596068410.623251,
             "included_at_iso": "2020-07-30T00:20:10.623251",
-            "last_retested_at_epoch": 1597968453.898095,
-            "last_retested_at_iso": "2020-08-21T00:07:33.898095",
+            "last_retested_at_epoch": 1598061121.237385,
+            "last_retested_at_iso": "2020-08-22T01:52:01.237385",
             "status": "INACTIVE"
         },
         "www.player-cda.pl": {
@@ -23726,8 +23768,8 @@
         "www.pokemon2k16go.blogspot.com": {
             "included_at_epoch": 1588420203.0,
             "included_at_iso": "2020-05-02T11:50:03",
-            "last_retested_at_epoch": 1597950180.008287,
-            "last_retested_at_iso": "2020-08-20T19:03:00.008287",
+            "last_retested_at_epoch": 1598061284.332571,
+            "last_retested_at_iso": "2020-08-22T01:54:44.332571",
             "status": "INACTIVE"
         },
         "www.pokojewkolobrzegu.com.pl": {
@@ -23992,8 +24034,8 @@
         "www.pomelostudio.pl": {
             "included_at_epoch": 1597336050.476549,
             "included_at_iso": "2020-08-13T16:27:30.476549",
-            "last_retested_at_epoch": 1597944782.028841,
-            "last_retested_at_iso": "2020-08-20T17:33:02.028841",
+            "last_retested_at_epoch": 1598061457.92399,
+            "last_retested_at_iso": "2020-08-22T01:57:37.923990",
             "status": "INACTIVE"
         },
         "www.pomoc-fakty24.pl": {
@@ -24167,8 +24209,8 @@
         "www.poshettescafe.com": {
             "included_at_epoch": 1596320196.401881,
             "included_at_iso": "2020-08-01T22:16:36.401881",
-            "last_retested_at_epoch": 1597950781.602454,
-            "last_retested_at_iso": "2020-08-20T19:13:01.602454",
+            "last_retested_at_epoch": 1598061018.401787,
+            "last_retested_at_iso": "2020-08-22T01:50:18.401787",
             "status": "INACTIVE"
         },
         "www.postkod.org": {
@@ -25070,8 +25112,8 @@
         "www.radkokurier.org": {
             "included_at_epoch": 1588382118.0,
             "included_at_iso": "2020-05-02T01:15:18",
-            "last_retested_at_epoch": 1597915473.167182,
-            "last_retested_at_iso": "2020-08-20T09:24:33.167182",
+            "last_retested_at_epoch": 1598061174.716743,
+            "last_retested_at_iso": "2020-08-22T01:52:54.716743",
             "status": "INACTIVE"
         },
         "www.rainxpose1.live": {
@@ -25105,8 +25147,8 @@
         "www.rainxpose13.live": {
             "included_at_epoch": 1591079380.658911,
             "included_at_iso": "2020-06-02T06:29:40.658911",
-            "last_retested_at_epoch": 1597944672.330228,
-            "last_retested_at_iso": "2020-08-20T17:31:12.330228",
+            "last_retested_at_epoch": 1598061013.723952,
+            "last_retested_at_iso": "2020-08-22T01:50:13.723952",
             "status": "INACTIVE"
         },
         "www.rainxpose14.live": {
@@ -25623,8 +25665,8 @@
         "www.rocleotolonva.tk": {
             "included_at_epoch": 1590646680.912411,
             "included_at_iso": "2020-05-28T06:18:00.912411",
-            "last_retested_at_epoch": 1597916183.050576,
-            "last_retested_at_iso": "2020-08-20T09:36:23.050576",
+            "last_retested_at_epoch": 1598060653.669239,
+            "last_retested_at_iso": "2020-08-22T01:44:13.669239",
             "status": "INACTIVE"
         },
         "www.rodzice-fakty24.pl": {
@@ -25672,8 +25714,8 @@
         "www.rossmann-rozdawanie.eu": {
             "included_at_epoch": 1591870738.921416,
             "included_at_iso": "2020-06-11T10:18:58.921416",
-            "last_retested_at_epoch": 1597937897.286573,
-            "last_retested_at_iso": "2020-08-20T15:38:17.286573",
+            "last_retested_at_epoch": 1598060659.151429,
+            "last_retested_at_iso": "2020-08-22T01:44:19.151429",
             "status": "INACTIVE"
         },
         "www.rossmannbonyzakupowe.grvdc.eu": {
@@ -25798,8 +25840,8 @@
         "www.rubris.org": {
             "included_at_epoch": 1590236236.100118,
             "included_at_iso": "2020-05-23T12:17:16.100118",
-            "last_retested_at_epoch": 1597950394.235643,
-            "last_retested_at_iso": "2020-08-20T19:06:34.235643",
+            "last_retested_at_epoch": 1598061325.496331,
+            "last_retested_at_iso": "2020-08-22T01:55:25.496331",
             "status": "INACTIVE"
         },
         "www.runningbastards.pl": {
@@ -26904,8 +26946,8 @@
         "www.spocztapolska.net": {
             "included_at_epoch": 1590845567.810035,
             "included_at_iso": "2020-05-30T13:32:47.810035",
-            "last_retested_at_epoch": 1597932512.848643,
-            "last_retested_at_iso": "2020-08-20T14:08:32.848643",
+            "last_retested_at_epoch": 1598061361.424427,
+            "last_retested_at_iso": "2020-08-22T01:56:01.424427",
             "status": "INACTIVE"
         },
         "www.spolszczenia4you.net": {
@@ -27058,8 +27100,8 @@
         "www.sslplatnosc.online": {
             "included_at_epoch": 1588461880.0,
             "included_at_iso": "2020-05-02T23:24:40",
-            "last_retested_at_epoch": 1597857543.829681,
-            "last_retested_at_iso": "2020-08-19T17:19:03.829681",
+            "last_retested_at_epoch": 1598061174.388674,
+            "last_retested_at_iso": "2020-08-22T01:52:54.388674",
             "status": "INACTIVE"
         },
         "www.sso-cloud-ideabank.at": {
@@ -27254,8 +27296,8 @@
         "www.stowarzyszeniesedziow.pl": {
             "included_at_epoch": 1596787613.286289,
             "included_at_iso": "2020-08-07T08:06:53.286289",
-            "last_retested_at_epoch": 1597973031.280664,
-            "last_retested_at_iso": "2020-08-21T01:23:51.280664",
+            "last_retested_at_epoch": 1598061402.475084,
+            "last_retested_at_iso": "2020-08-22T01:56:42.475084",
             "status": "INACTIVE"
         },
         "www.stowarzyszeniewkp.pl": {
@@ -27758,8 +27800,8 @@
         "www.t500track29.com": {
             "included_at_epoch": 1595449880.562014,
             "included_at_iso": "2020-07-22T20:31:20.562014",
-            "last_retested_at_epoch": 1597829069.802557,
-            "last_retested_at_iso": "2020-08-19T09:24:29.802557",
+            "last_retested_at_epoch": 1598060671.835649,
+            "last_retested_at_iso": "2020-08-22T01:44:31.835649",
             "status": "INACTIVE"
         },
         "www.tajonis.com": {
@@ -28430,8 +28472,8 @@
         "www.top10-konkursy.pl": {
             "included_at_epoch": 1597696440.913083,
             "included_at_iso": "2020-08-17T20:34:00.913083",
-            "last_retested_at_epoch": 1597932676.803925,
-            "last_retested_at_iso": "2020-08-20T14:11:16.803925",
+            "last_retested_at_epoch": 1598061165.551611,
+            "last_retested_at_iso": "2020-08-22T01:52:45.551611",
             "status": "INACTIVE"
         },
         "www.topanonse.pl": {
@@ -29907,8 +29949,8 @@
         "www.windpl.org": {
             "included_at_epoch": 1588387769.0,
             "included_at_iso": "2020-05-02T02:49:29",
-            "last_retested_at_epoch": 1597921217.086071,
-            "last_retested_at_iso": "2020-08-20T11:00:17.086071",
+            "last_retested_at_epoch": 1598060706.702046,
+            "last_retested_at_iso": "2020-08-22T01:45:06.702046",
             "status": "INACTIVE"
         },
         "www.windykacjajagoda.org": {
@@ -30012,8 +30054,8 @@
         "www.wlewki.pl": {
             "included_at_epoch": 1595663039.571495,
             "included_at_iso": "2020-07-25T07:43:59.571495",
-            "last_retested_at_epoch": 1597950611.992794,
-            "last_retested_at_iso": "2020-08-20T19:10:11.992794",
+            "last_retested_at_epoch": 1598060974.601801,
+            "last_retested_at_iso": "2020-08-22T01:49:34.601801",
             "status": "INACTIVE"
         },
         "www.wnp24.pl": {
@@ -30268,6 +30310,13 @@
             "last_retested_at_iso": "2020-08-01T20:52:25.783518",
             "status": "INACTIVE"
         },
+        "www.ww.paczktups.com": {
+            "included_at_epoch": 1598060971.568547,
+            "included_at_iso": "2020-08-22T01:49:31.568547",
+            "last_retested_at_epoch": 1598060971.568547,
+            "last_retested_at_iso": "2020-08-22T01:49:31.568547",
+            "status": "INACTIVE"
+        },
         "www.ww1.shinden-anime.info": {
             "included_at_epoch": 1588466523.0,
             "included_at_iso": "2020-05-03T00:42:03",
@@ -30292,8 +30341,8 @@
         "www.wwa-informacje.co.pl": {
             "included_at_epoch": 1593330748.210816,
             "included_at_iso": "2020-06-28T07:52:28.210816",
-            "last_retested_at_epoch": 1597767713.047617,
-            "last_retested_at_iso": "2020-08-18T16:21:53.047617",
+            "last_retested_at_epoch": 1598061361.015017,
+            "last_retested_at_iso": "2020-08-22T01:56:01.015017",
             "status": "INACTIVE"
         },
         "www.wx-xcx.xyz": {
@@ -30971,8 +31020,8 @@
         "www.zebrapozyczki.pl": {
             "included_at_epoch": 1596460676.901288,
             "included_at_iso": "2020-08-03T13:17:56.901288",
-            "last_retested_at_epoch": 1597967603.170841,
-            "last_retested_at_iso": "2020-08-20T23:53:23.170841",
+            "last_retested_at_epoch": 1598060817.493234,
+            "last_retested_at_iso": "2020-08-22T01:46:57.493234",
             "status": "INACTIVE"
         },
         "www.zedgalaxyplays.com": {
