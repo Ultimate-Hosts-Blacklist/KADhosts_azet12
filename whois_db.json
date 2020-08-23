@@ -7889,6 +7889,11 @@
         "expiration_date": "17-aug-2021",
         "state": "future"
     },
+    "esoterisch4.live": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
+    },
     "esoterisch6.live": {
         "epoch": 1629158400.0,
         "expiration_date": "17-aug-2021",
@@ -8617,7 +8622,7 @@
     "festival-dialog-wroclaw.pl": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "fevitum.pl": {
         "epoch": 1592870400.0,
@@ -10917,7 +10922,7 @@
     "greenlabik.pl": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "greenpatio.pl": {
         "epoch": 1585872000.0,
@@ -13817,7 +13822,7 @@
     "klubradosc.waw.pl": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "klubufo.pl": {
         "epoch": 1613865600.0,
