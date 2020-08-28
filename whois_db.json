@@ -18437,7 +18437,7 @@
     "ogladaj.online": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ogladajfilmy.pl": {
         "epoch": 1615507200.0,
@@ -18712,6 +18712,11 @@
     "onlineprzelew.site": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
+        "state": "future"
+    },
+    "onlineprzelew.space": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "onlinerekruter.com": {
@@ -19740,8 +19745,8 @@
         "state": "future"
     },
     "perfumeriaife.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "perfumio.pl": {
@@ -26315,6 +26320,11 @@
         "state": "future"
     },
     "thvedroisil14.live": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
+    "thvedroisil4.live": {
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
         "state": "future"
