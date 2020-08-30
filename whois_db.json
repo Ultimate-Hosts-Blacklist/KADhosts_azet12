@@ -13662,7 +13662,7 @@
     "ketabnema.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ketorecipeslchf.site": {
         "epoch": 1626566400.0,
@@ -13787,7 +13787,7 @@
     "kinotek.pl": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kinovod.tv": {
         "epoch": 1604620800.0,
@@ -18737,6 +18737,11 @@
     "onlineogladaj.pl": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "onlineprzelew.online": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "onlineprzelew.site": {
@@ -28705,8 +28710,8 @@
         "state": "future"
     },
     "wkolo-roweru.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "wkretowinach.pl": {
