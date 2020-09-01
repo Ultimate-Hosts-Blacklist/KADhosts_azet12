@@ -5004,6 +5004,11 @@
         "expiration_date": "21-feb-2020",
         "state": "past"
     },
+    "copernicusdm.pl": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
     "coreplays.com": {
         "epoch": 1659571200.0,
         "expiration_date": "04-aug-2022",
@@ -9537,7 +9542,7 @@
     "fotoquznia.com.pl": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "fotos3d.pl": {
         "epoch": 1616025600.0,
@@ -28107,6 +28112,11 @@
     "vod24.pl": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "vodfilm.pl": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "vodfilmy.pl": {
