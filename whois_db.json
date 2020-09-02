@@ -13520,9 +13520,9 @@
         "state": "future"
     },
     "karenshealthfoods.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
-        "state": "past"
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "state": "future"
     },
     "karokorale.pl": {
         "epoch": 1592870400.0,
@@ -18567,6 +18567,11 @@
     "ogloszenie-elektronika.host": {
         "epoch": 1630108800.0,
         "expiration_date": "28-aug-2021",
+        "state": "future"
+    },
+    "ogloszenie-elektronika.online": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "ogloszenie-elektronika.tech": {
