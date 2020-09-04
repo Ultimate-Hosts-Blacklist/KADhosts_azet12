@@ -7474,6 +7474,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "elektro.waw.pl": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
+    },
     "elektro24h.pl": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -17815,9 +17820,9 @@
         "state": "future"
     },
     "neopozyczki.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
-        "state": "past"
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
     },
     "neos.com.pl": {
         "epoch": 1617667200.0,
@@ -20337,6 +20342,11 @@
     "platnosciallegro.pl": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
+    "platnoscionline.xyz": {
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "state": "future"
     },
     "play-cda.pl": {
@@ -24862,6 +24872,11 @@
     "spplodz.pl": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "sprawajestprosta21.online": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "sprawajestprosta21.site": {
