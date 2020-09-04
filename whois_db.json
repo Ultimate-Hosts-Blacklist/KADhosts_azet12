@@ -8604,6 +8604,11 @@
         "expiration_date": "05-aug-2021",
         "state": "future"
     },
+    "fb-fb-update.com": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "state": "future"
+    },
     "fb-manager.net": {
         "epoch": 1627689600.0,
         "expiration_date": "31-jul-2021",
@@ -22212,7 +22217,7 @@
     "qubble.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "questraworld.ru": {
         "epoch": 1601164800.0,
