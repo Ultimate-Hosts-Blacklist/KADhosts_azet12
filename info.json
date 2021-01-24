@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 2990,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 4920,
-        "whitelisted.list": 4910
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "description": "Filtry chroniace przed przekretami takimi jak subskrypcje SMS",
     "end_datetime": "2020-03-03T15:33:04.837863",
     "end_epoch": 1582928599.736744,
     "issue_link": "https://github.com/PolishFiltersTeam/KADhosts/issues/new/choose",
-    "last_autosave_datetime": "2020-03-03T15:33:04.837886",
-    "last_autosave_epoch": 1583245995.270615,
     "link": "https://github.com/PolishFiltersTeam/KADhosts",
     "name": "KADhosts_azet12",
-    "previous_stats": {
-        "builds": 17,
-        "clean.list": 6896,
-        "counter": {
-            "down": 648,
-            "invalid": 0,
-            "tested": 7544,
-            "up": 6896
-        },
-        "domains.list": 7544,
-        "ip.list": 0,
-        "volatile.list": 6906,
-        "whitelisted.list": 6896
+    "previous_end_datetime": "2020-01-25T04:16:08.925626",
+    "previous_end_epoch": 1579925768.925629,
+    "previous_start_datetime": "2020-01-25T04:16:08.925614",
+    "previous_start_epoch": 1579925768.925628,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
     "start_datetime": "2020-03-03T15:33:04.842525",
