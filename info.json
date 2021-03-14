@@ -2,19 +2,19 @@
     "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "Filtry chroniace przed przekretami takimi jak subskrypcje SMS",
-    "end_datetime": "2021-03-02T23:00:55.046213",
-    "end_epoch": 1614722455.046213,
+    "end_datetime": "2021-03-14T15:17:19.883928",
+    "end_epoch": 1615731439.883928,
     "issue_link": "https://github.com/PolishFiltersTeam/KADhosts/issues/new/choose",
     "link": "https://github.com/PolishFiltersTeam/KADhosts",
     "name": "blacklist_KADhosts_azet12_master",
-    "previous_end_datetime": "2020-01-25T04:16:08.925626",
-    "previous_end_epoch": 1579925768.925629,
-    "previous_start_datetime": "2020-01-25T04:16:08.925614",
-    "previous_start_epoch": 1579925768.925628,
+    "previous_end_datetime": "2021-03-02T23:00:55.046213",
+    "previous_end_epoch": 1614722455.046213,
+    "previous_start_datetime": "2020-03-03T15:33:04.842525",
+    "previous_start_epoch": 1583245984.842525,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
-    "start_datetime": "2020-03-03T15:33:04.842525",
-    "start_epoch": 1583083328.927252
+    "start_datetime": "2021-03-14T11:20:55.092749",
+    "start_epoch": 1615717255.092749
 }
